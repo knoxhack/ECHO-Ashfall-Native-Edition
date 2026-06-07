@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://echo.local/schemas/official_pack.schema.json",
+  "title": "ECHO Official Pack Metadata",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "label",
+    "officialNumber",
+    "description",
+    "version",
+    "minecraftVersion",
+    "loader",
+    "requiredModules",
+    "recommendedModules",
+    "optionalModules",
+    "theme",
+    "packStyle",
+    "goals",
+    "progressionType",
+    "screenshots",
+    "bannerPath",
+    "iconPath",
+    "changelogPath",
+    "knownIssuesPath",
+    "supportPath",
+    "serverPackSupport",
+    "clientPackSupport",
+    "exportProfiles",
+    "packHealthRules",
+    "launcherCard"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "officialNumber": {
+      "type": "integer"
+    },
+    "requiredModules": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "recommendedModules": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "optionalModules": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+    "id": "ashfall",
+    "version": "1.7.6",
+    "officialPack": "ashfall",
+    "modules": {
+        "required": [
+            "echocore",
+            "echonetcore",
+            "echoashfallprotocol"
+        ],
+        "recommended": [
+            "echoagriculturereclamation",
+            "echoarmory",
+            "echoblackboxprotocol",
+            "echoblockworks",
+            "echoconvoyprotocol",
+            "echodatacore",
+            "echoholomap",
+            "echoindex",
+            "echoindustrialnexus",
+            "echolens",
+            "echologisticsnetwork",
+            "echomissioncore",
+            "echomultiblockcore",
+            "echonexusprotocol",
+            "echoorbitalremnants",
+            "echoplayercore",
+            "echopowergrid",
+            "echorecovery",
+            "echorelictech",
+            "echorendercore",
+            "echoruntimeguard",
+            "echoscreencore",
+            "echosoundcore",
+            "echostationfall",
+            "echoterminal",
+            "echothemecore",
+            "echotutorialcore",
+            "echoweathercore",
+            "echowiki",
+            "echoworldcore",
+            "signalos"
+        ],
+        "optional": [
+            "echomodpackcommandcenter",
+            "echotextureforge",
+            "signalosexample"
+        ]
+    },
+    "theme": "ashfall",
+    "terminalLayout": "ashfall/showcase",
+    "indexContent": [
+        "echoashfallprotocol:survival_archive",
+        "echoashfallprotocol:route_records",
+        "echoashfallprotocol:showcase_flow",
+        "echoashfallprotocol:profile_isolation",
+        "echoashfallprotocol:ashfall_powergrid_repair",
+        "echoashfallprotocol:ashfall_relic_field_note",
+        "echoashfallprotocol:first_month_routes",
+        "echoashfallprotocol:field_scanning",
+        "echoashfallprotocol:holomap_field_intel",
+        "echoashfallprotocol:poi_signals",
+        "echoashfallprotocol:weather_route_planning",
+        "echoashfallprotocol:faction_field_contacts",
+        "echoashfallprotocol:field_caches",
+        "echoashfallprotocol:route_records",
+        "echoashfallprotocol:safe_zones",
+        "echoashfallprotocol:starter_power_water",
+        "echoashfallprotocol:first_relay_station",
+        "echoashfallprotocol:field_contracts",
+        "echoashfallprotocol:relay_station_rewards",
+        "echoashfallprotocol:relay_hazard_prep"
+    ],
+    "missionCoreMissions": [
+        "echoashfallprotocol:first_signal",
+        "echoashfallprotocol:prime_relay",
+        "echoashfallprotocol:ashfall_showcase_flow",
+        "echoashfallprotocol:ashfall_first_month_routes",
+        "echoashfallprotocol:survivor_cache_sweep",
+        "echoashfallprotocol:faction_signal_ping",
+        "echoashfallprotocol:hazard_route_prep",
+        "echoashfallprotocol:first_relay_station_route",
+        "echoashfallprotocol:crashbreak_relay_contract"
+    ],
+    "holoMapLayers": [
+        "ashfall_regions",
+        "ashfall_routes",
+        "ashfall_hazards",
+        "echoashfallprotocol:showcase_flow",
+        "echoashfallprotocol:first_month_field_intel",
+        "echoashfallprotocol:first_major_route"
+    ],
+    "soundCoreRules": [
+        "ashfall_ambience",
+        "ashfall_station_layers",
+        "echoashfallprotocol:showcase_cues"
+    ],
+    "weatherCoreEvents": [
+        "ashfall_toxic_front",
+        "ashfall_dustfall",
+        "echoashfallprotocol:ashfall_toxic_front"
+    ],
+    "worldCoreRegions": [
+        "ashfall_crash_zone",
+        "ashfall_relay_basin",
+        "echoashfallprotocol:showcase_corridor"
+    ],
+    "lensScanProfiles": [
+        "ashfall_relics",
+        "ashfall_nexus_signals",
+        "echoashfallprotocol:ashfall_showcase_scans",
+        "echoashfallprotocol:ashfall_first_month_scans",
+        "echoashfallprotocol:ashfall_major_route_scans"
+    ],
+    "ashfallIsolation": "Ashfall content loads through the official pack profile and echoashfallprotocol namespace; reusable modules remain generic.",
+    "supportPath": "docs/SUPPORT.md",
+    "changelogPath": "docs/official_packs/ashfall/CHANGELOG_1.0.0.md",
+    "knownIssuesPath": "docs/official_packs/ashfall/KNOWN_ISSUES.md",
+    "serverPackSupport": true,
+    "clientPackSupport": true,
+    "showcaseFlow": [
+        "start at the armored drop pod",
+        "open Terminal and read the Ashfall field dashboard",
+        "read the Ashfall Showcase Flow Index entry",
+        "scan drop-pod wreckage with Lens",
+        "pin the first HoloMap field objective",
+        "accept the Ashfall Showcase Opening MissionCore mission",
+        "respond to the first WeatherCore toxic-front warning",
+        "recover a small RelicTech field note",
+        "repair the pod PowerGrid spine",
+        "install a basic Armory upgrade",
+        "follow the first faction/story signal",
+        "defer Nexus, Orbital, Stationfall, and Blackbox hooks until the player is supplied"
+    ],
+    "showcaseIntegrations": {
+        "terminal": "Field dashboard summarizes the current next step and links to Index, mission, and marker ids.",
+        "index": "Showcase Flow, Profile Isolation, Relic Field Note, and Power Repair entries stay in the Ashfall namespace.",
+        "missioncore": "Ashfall Showcase Opening chains the first ECHO systems without adding a new content wave.",
+        "holomap": "Showcase Flow layer exposes opening route markers only for the Ashfall official profile.",
+        "lens": "Opening scan rows unlock Index and MissionCore context for wreckage, relic, and power repair beats.",
+        "weathercore": "Toxic Front warning teaches retreat and shelter without becoming a punishment spike.",
+        "soundcore": "Subtle optional cue profile supports Terminal, Lens, relic, and repair feedback.",
+        "worldcore": "Showcase Corridor groups the opening route as profile-scoped field intel.",
+        "relictech": "First relic field note demonstrates discovery cross-links before Nexus escalation.",
+        "powergrid": "Drop-pod grid repair uses the 1.0.0 tech wave as a small survival repair step.",
+        "armory": "First Field Upgrade introduces gear readiness before faction pressure rises.",
+        "logisticsConvoy": "Depot and convoy hooks remain optional later-route bridges.",
+        "stationNexusBlackbox": "Story links are signposted as later hooks, not front-loaded requirements.",
+        "themeCore": "Ashfall Cyberglass tokens use orange warning, cyan focus, and dark panel surfaces."
+    },
+    "profileIsolation": {
+        "allowedNamespaces": [
+            "echoashfallprotocol",
+            "echo_template_full_ashfall"
+        ],
+        "allowedSurfaces": [
+            "metadata/official_packs/ashfall",
+            "metadata/templates/ashfall_official",
+            "examples/packs/full_ashfall",
+            "addons/echoashfallprotocol/src/main/resources/data/echoashfallprotocol"
+        ],
+        "genericDefaultsMustNotContain": [
+            "echoashfallprotocol",
+            "ECHO-7",
+            "Prime Relay",
+            "Ashfall Nexus"
+        ],
+        "reusableModulesRemainStandalone": true
+    },
+    "terminalPages": [
+        "echoashfallprotocol:ashfall_showcase_dashboard",
+        "echoashfallprotocol:ashfall_first_month_routes",
+        "echoashfallprotocol:ashfall_major_route_records"
+    ],
+    "powerGridRepairs": [
+        "echoashfallprotocol:ashfall_drop_pod_grid",
+        "echoashfallprotocol:ashfall_relay_station_repair"
+    ],
+    "armoryLoadouts": [
+        "echoashfallprotocol:ashfall_first_upgrade"
+    ],
+    "relicTechDiscoveries": [
+        "echoashfallprotocol:ashfall_relic_first_contact",
+        "echoashfallprotocol:ashfall_relay_signal_fragment"
+    ]
+}

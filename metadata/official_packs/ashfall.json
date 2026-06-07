@@ -1,0 +1,164 @@
+{
+    "id": "ashfall",
+    "name": "Ashfall",
+    "label": "Official ECHO Pack #1",
+    "description": "A ruined-world sci-fi survival modpack built to showcase the ECHO module stack while preserving reusable standalone modules.",
+    "type": "official_pack",
+    "officialNumber": 1,
+    "version": "1.7.6",
+    "minecraftVersion": "26.1.2",
+    "loader": "NeoForge",
+    "javaVersion": "25",
+    "requiredModules": [
+        "echocore",
+        "echonetcore",
+        "echoashfallprotocol"
+    ],
+    "recommendedModules": [
+        "echoagriculturereclamation",
+        "echoarmory",
+        "echoblackboxprotocol",
+        "echoblockworks",
+        "echoconvoyprotocol",
+        "echodatacore",
+        "echoholomap",
+        "echoindex",
+        "echoindustrialnexus",
+        "echolens",
+        "echologisticsnetwork",
+        "echomissioncore",
+        "echomultiblockcore",
+        "echonexusprotocol",
+        "echoorbitalremnants",
+        "echoplayercore",
+        "echopowergrid",
+        "echorecovery",
+        "echorelictech",
+        "echorendercore",
+        "echoruntimeguard",
+        "echoscreencore",
+        "echosoundcore",
+        "echostationfall",
+        "echoterminal",
+        "echothemecore",
+        "echotutorialcore",
+        "echoweathercore",
+        "echowiki",
+        "echoworldcore",
+        "signalos"
+    ],
+    "optionalModules": [
+        "echomodpackcommandcenter",
+        "echotextureforge",
+        "signalosexample"
+    ],
+    "theme": "ashfall",
+    "packStyle": [
+        "Survival",
+        "Sci-Fi",
+        "Post-Apocalyptic",
+        "Story"
+    ],
+    "tags": [
+        "Survival",
+        "Sci-Fi",
+        "Post-Apocalyptic",
+        "Story",
+        "ECHO Official"
+    ],
+    "status": "Beta",
+    "recommendedRamGb": 6,
+    "ashfallRequired": true,
+    "iconPath": "metadata/assets/official_packs/ashfall/icon.png",
+    "bannerPath": "metadata/assets/official_packs/ashfall/banner.png",
+    "packCardPath": "metadata/assets/official_packs/ashfall/pack_card.png",
+    "showcasePath": "metadata/assets/official_packs/ashfall/showcase.png",
+    "screenshotsNeeded": [
+        "generated official pack card",
+        "generated Ashfall banner",
+        "generated Ashfall showcase",
+        "real first-launch screenshot",
+        "real server/client export screenshot"
+    ],
+    "screenshots": [
+        "metadata/assets/official_packs/ashfall/pack_card.png",
+        "metadata/assets/official_packs/ashfall/showcase.png"
+    ],
+    "changelogPath": "docs/official_packs/ashfall/CHANGELOG_1.0.0.md",
+    "knownIssuesPath": "docs/official_packs/ashfall/KNOWN_ISSUES.md",
+    "releaseNotesPath": "docs/RELEASE_NOTES_1.0.0.md",
+    "supportPath": "docs/SUPPORT.md",
+    "serverPackSupport": true,
+    "clientPackSupport": true,
+    "goals": [
+        "Showcase the full ECHO module stack through Ashfall's first-play route",
+        "Provide a post-collapse survival campaign with clear Terminal, Index, Lens, HoloMap, and MissionCore guidance",
+        "Demonstrate optional module integrations without making Ashfall mandatory"
+    ],
+    "progressionType": "story_survival",
+    "exportProfiles": [
+        "client",
+        "server",
+        "curseforge",
+        "modrinth",
+        "configsOnly"
+    ],
+    "packHealthRules": "metadata/diagnostics/health_rules.json",
+    "launcherCard": {
+        "title": "Ashfall",
+        "subtitle": "Official ECHO Pack #1 Showcase",
+        "accent": "#f08a4b",
+        "cardPath": "metadata/assets/official_packs/ashfall/pack_card.png",
+        "description": "Official ECHO Pack #1 showcases the ECHO stack through Ashfall-only first-play and first-month route guidance."
+    },
+    "profilePath": "metadata/official_packs/ashfall/profile.json",
+    "showcaseFlow": [
+        "start at the armored drop pod",
+        "open Terminal and read the Ashfall field dashboard",
+        "read the Ashfall Showcase Flow Index entry",
+        "scan drop-pod wreckage with Lens",
+        "pin the first HoloMap field objective",
+        "accept the Ashfall Showcase Opening MissionCore mission",
+        "respond to the first WeatherCore toxic-front warning",
+        "recover a small RelicTech field note",
+        "repair the pod PowerGrid spine",
+        "install a basic Armory upgrade",
+        "follow the first faction/story signal",
+        "defer Nexus, Orbital, Stationfall, and Blackbox hooks until the player is supplied"
+    ],
+    "showcaseIntegrations": {
+        "terminal": "Field dashboard summarizes the current next step and links to Index, mission, and marker ids.",
+        "index": "Showcase Flow, Profile Isolation, Relic Field Note, and Power Repair entries stay in the Ashfall namespace.",
+        "missioncore": "Ashfall Showcase Opening chains the first ECHO systems without adding a new content wave.",
+        "holomap": "Showcase Flow layer exposes opening route markers only for the Ashfall official profile.",
+        "lens": "Opening scan rows unlock Index and MissionCore context for wreckage, relic, and power repair beats.",
+        "weathercore": "Toxic Front warning teaches retreat and shelter without becoming a punishment spike.",
+        "soundcore": "Subtle optional cue profile supports Terminal, Lens, relic, and repair feedback.",
+        "worldcore": "Showcase Corridor groups the opening route as profile-scoped field intel.",
+        "relictech": "First relic field note demonstrates discovery cross-links before Nexus escalation.",
+        "powergrid": "Drop-pod grid repair uses the 1.0.0 tech wave as a small survival repair step.",
+        "armory": "First Field Upgrade introduces gear readiness before faction pressure rises.",
+        "logisticsConvoy": "Depot and convoy hooks remain optional later-route bridges.",
+        "stationNexusBlackbox": "Story links are signposted as later hooks, not front-loaded requirements.",
+        "themeCore": "Ashfall Cyberglass tokens use orange warning, cyan focus, and dark panel surfaces."
+    },
+    "profileIsolation": {
+        "allowedNamespaces": [
+            "echoashfallprotocol",
+            "echo_template_full_ashfall"
+        ],
+        "allowedSurfaces": [
+            "metadata/official_packs/ashfall",
+            "metadata/templates/ashfall_official",
+            "examples/packs/full_ashfall",
+            "addons/echoashfallprotocol/src/main/resources/data/echoashfallprotocol"
+        ],
+        "genericDefaultsMustNotContain": [
+            "echoashfallprotocol",
+            "ECHO-7",
+            "Prime Relay",
+            "Ashfall Nexus"
+        ],
+        "reusableModulesRemainStandalone": true
+    }
+}
