@@ -1,5 +1,7 @@
-﻿# Public Alpha Release Status
+# Ashfall Native Edition Release Status
 
-This brand-new repository is staged for the ECHO Native Platform public alpha.
+Ashfall Native Edition consumes ECHO Native `.echo-addon` artifacts and remains warning-gated until real pack assets replace historical placeholder outputs.
 
-Public release assets are staged through GitHub draft releases first. The official ECHO website is the public download hub.
+For Native Platform `1.0.0-RC1`, this pack cannot be promoted as player-ready until it has checksum-backed pack artifacts, compiled runtime module artifacts, launcher install/update/repair/rollback evidence, diagnostics export proof, and gameplay smoke evidence.
+
+Public release assets are staged through GitHub releases and the ECHO website only after Release Index approval.
