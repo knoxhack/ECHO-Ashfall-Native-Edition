@@ -1,13 +1,13 @@
 {
-  "pack": "ashfall-native-edition",
-  "name": "Ashfall Native Edition",
-  "version": "0.1.0",
-  "channel": "alpha",
-  "minecraft": "26.1.2",
-  "minecraftVersion": "26.1.2",
-  "artifactMode": "zip",
-  "artifactName": "ashfall-native-edition-0.1.0.zip",
+  "packId": "ashfall-native-edition",
+  "displayName": "Ashfall Native Edition",
+  "sourceRepo": "knoxhack/ECHO-Ashfall-Native-Edition",
+  "launcherFeed": "github-releases",
+  "runtimeTarget": "echo_native",
+  "loader": "echo-native-loader",
   "moduleArtifactFamily": "echo-addon",
+  "moduleArtifactPattern": "<module>-<version>.echo-addon",
+  "moduleSourcePattern": "<module>-<version>-sources.jar",
   "moduleRequirements": [
     {
       "id": "echoadaptercore",
@@ -18,9 +18,7 @@
       "artifactName": "echoadaptercore-1.0.0.echo-addon",
       "path": "addons/echoadaptercore-1.0.0.echo-addon",
       "required": true,
-      "side": "both",
-      "sha256": "c1e43b95d8b2a78c5aa0fa91146d7928ff6d7d55cee9905f4311c314eff96c3a",
-      "size": 803858
+      "side": "both"
     },
     {
       "id": "echoagriculturereclamation",
@@ -53,9 +51,7 @@
       "artifactName": "echoashfallprotocol-1.0.0.echo-addon",
       "path": "addons/echoashfallprotocol-1.0.0.echo-addon",
       "required": true,
-      "side": "both",
-      "sha256": "309ae84adb8924e46db9d522633bc0ac79a96d9d37c4c600613669d34f0fe47d",
-      "size": 58590070
+      "side": "both"
     },
     {
       "id": "echoblackboxprotocol",
@@ -77,9 +73,7 @@
       "artifactName": "echoblockworks-1.0.0.echo-addon",
       "path": "addons/echoblockworks-1.0.0.echo-addon",
       "required": true,
-      "side": "both",
-      "sha256": "1fb4528161244c5ba254a77ac82bf1d44ee2b592d723d44fc9386dcf5489ec93",
-      "size": 789311
+      "side": "both"
     },
     {
       "id": "echocommonloot",
@@ -123,9 +117,7 @@
       "artifactName": "echocore-1.0.0.echo-addon",
       "path": "addons/echocore-1.0.0.echo-addon",
       "required": true,
-      "side": "both",
-      "sha256": "a00395f5818b0d31aa8c36e0be611feab31d35bd95364aca1144d4eb5fb0ac55",
-      "size": 205715
+      "side": "both"
     },
     {
       "id": "echocreatureroles",
@@ -213,9 +205,7 @@
       "artifactName": "echolens-1.0.0.echo-addon",
       "path": "addons/echolens-1.0.0.echo-addon",
       "required": true,
-      "side": "both",
-      "sha256": "b86707d4eb3f70f891d1f0a737b25bc7dba34a036953948375a9b08479f0d1fc",
-      "size": 201277
+      "side": "both"
     },
     {
       "id": "echologisticsnetwork",
@@ -270,9 +260,7 @@
       "artifactName": "echonetcore-1.0.0.echo-addon",
       "path": "addons/echonetcore-1.0.0.echo-addon",
       "required": true,
-      "side": "both",
-      "sha256": "f81a5c6c9f3d762b421194d708b64e322f1eba5b0268a9e7814b104d3d741943",
-      "size": 64461
+      "side": "both"
     },
     {
       "id": "echonexusprotocol",
@@ -305,9 +293,7 @@
       "artifactName": "echoplatformcore-1.0.0.echo-addon",
       "path": "addons/echoplatformcore-1.0.0.echo-addon",
       "required": true,
-      "side": "both",
-      "sha256": "666f2a03e2e4a12bcf423a09a238e2bcfb06170334c41ada929c28368a7f4e05",
-      "size": 44852
+      "side": "both"
     },
     {
       "id": "echopowergrid",
@@ -362,9 +348,7 @@
       "artifactName": "echoruntimeguard-1.0.0.echo-addon",
       "path": "addons/echoruntimeguard-1.0.0.echo-addon",
       "required": true,
-      "side": "both",
-      "sha256": "c99c4c5141b542f0d4d29477b423c3c50f296356e9642c4fadd113a57c58e47b",
-      "size": 121012
+      "side": "both"
     },
     {
       "id": "echoschemacore",
@@ -430,9 +414,7 @@
       "artifactName": "echoterminal-1.0.0.echo-addon",
       "path": "addons/echoterminal-1.0.0.echo-addon",
       "required": true,
-      "side": "both",
-      "sha256": "3a224cce63ac165ec7fe3309c453d1707a5ad3e0f8f036417a407a78e4ae05cc",
-      "size": 22450117
+      "side": "both"
     },
     {
       "id": "echothemecore",
@@ -534,180 +516,8 @@
       "side": "both"
     }
   ],
-  "nativeLoader": {
-    "version": "1.0.0",
-    "minecraftLauncherVersionId": "echo-native-loader-1.0.0",
-    "versionJson": {
-      "id": "echo-native-loader-1.0.0",
-      "inheritsFrom": "26.1.2",
-      "mainClass": "com.echo.NativeLoaderClient",
-      "arguments": {
-        "game": [],
-        "jvm": []
-      },
-      "libraries": [
-        {
-          "name": "com.echo:native-loader:1.0.0"
-        }
-      ]
-    }
-  },
-  "runtime": {
-    "requiredJava": "25+",
-    "minecraftVersion": "26.1.2",
-    "assetIndex": "26.1.2"
-  },
-  "launch": {
-    "mainClass": "com.echo.NativeLoaderClient",
-    "gameArgs": [],
-    "jvmArgs": []
-  },
-  "modules": [
-    "echoadaptercore",
-    "echoagriculturereclamation",
-    "echoarmory",
-    "echoashfallprotocol",
-    "echoblackboxprotocol",
-    "echoblockworks",
-    "echocommonloot",
-    "echocontentcore",
-    "echoconvoyprotocol",
-    "echocore",
-    "echocreatureroles",
-    "echodatacore",
-    "echofoundationcore",
-    "echoholomap",
-    "echohudcore",
-    "echoindex",
-    "echoindustrialnexus",
-    "echolens",
-    "echologisticsnetwork",
-    "echomaterialcore",
-    "echomissioncore",
-    "echomultiblockcore",
-    "echonetcore",
-    "echonexusprotocol",
-    "echoorbitalremnants",
-    "echoplatformcore",
-    "echopowergrid",
-    "echorecovery",
-    "echorelictech",
-    "echorendercore",
-    "echoruntimeguard",
-    "echoschemacore",
-    "echoscreencore",
-    "echosoundcore",
-    "echostationcore",
-    "echostationfall",
-    "echoterminal",
-    "echothemecore",
-    "echotoolcore",
-    "echotutorialcore",
-    "echovalidationcore",
-    "echoweathercore",
-    "echowiki",
-    "echoworldcore",
-    "echoworldstarter",
-    "signalos"
+  "requiredModuleDescriptors": [
+    "META-INF/echo.mod.json"
   ],
-  "files": [
-    {
-      "path": "addons/echocore-1.0.0.echo-addon",
-      "assetName": "echocore-1.0.0.echo-addon",
-      "sha256": "a00395f5818b0d31aa8c36e0be611feab31d35bd95364aca1144d4eb5fb0ac55",
-      "size": 205715,
-      "required": true,
-      "moduleId": "echocore",
-      "side": "both",
-      "artifactName": "echocore-1.0.0.echo-addon"
-    },
-    {
-      "path": "addons/echoplatformcore-1.0.0.echo-addon",
-      "assetName": "echoplatformcore-1.0.0.echo-addon",
-      "sha256": "666f2a03e2e4a12bcf423a09a238e2bcfb06170334c41ada929c28368a7f4e05",
-      "size": 44852,
-      "required": true,
-      "moduleId": "echoplatformcore",
-      "side": "both",
-      "artifactName": "echoplatformcore-1.0.0.echo-addon"
-    },
-    {
-      "path": "addons/echoadaptercore-1.0.0.echo-addon",
-      "assetName": "echoadaptercore-1.0.0.echo-addon",
-      "sha256": "c1e43b95d8b2a78c5aa0fa91146d7928ff6d7d55cee9905f4311c314eff96c3a",
-      "size": 803858,
-      "required": true,
-      "moduleId": "echoadaptercore",
-      "side": "both",
-      "artifactName": "echoadaptercore-1.0.0.echo-addon"
-    },
-    {
-      "path": "addons/echonetcore-1.0.0.echo-addon",
-      "assetName": "echonetcore-1.0.0.echo-addon",
-      "sha256": "f81a5c6c9f3d762b421194d708b64e322f1eba5b0268a9e7814b104d3d741943",
-      "size": 64461,
-      "required": true,
-      "moduleId": "echonetcore",
-      "side": "both",
-      "artifactName": "echonetcore-1.0.0.echo-addon"
-    },
-    {
-      "path": "addons/echoruntimeguard-1.0.0.echo-addon",
-      "assetName": "echoruntimeguard-1.0.0.echo-addon",
-      "sha256": "c99c4c5141b542f0d4d29477b423c3c50f296356e9642c4fadd113a57c58e47b",
-      "size": 121012,
-      "required": true,
-      "moduleId": "echoruntimeguard",
-      "side": "both",
-      "artifactName": "echoruntimeguard-1.0.0.echo-addon"
-    },
-    {
-      "path": "addons/echolens-1.0.0.echo-addon",
-      "assetName": "echolens-1.0.0.echo-addon",
-      "sha256": "b86707d4eb3f70f891d1f0a737b25bc7dba34a036953948375a9b08479f0d1fc",
-      "size": 201277,
-      "required": true,
-      "moduleId": "echolens",
-      "side": "both",
-      "artifactName": "echolens-1.0.0.echo-addon"
-    },
-    {
-      "path": "addons/echoterminal-1.0.0.echo-addon",
-      "assetName": "echoterminal-1.0.0.echo-addon",
-      "sha256": "3a224cce63ac165ec7fe3309c453d1707a5ad3e0f8f036417a407a78e4ae05cc",
-      "size": 22450117,
-      "required": true,
-      "moduleId": "echoterminal",
-      "side": "both",
-      "artifactName": "echoterminal-1.0.0.echo-addon"
-    },
-    {
-      "path": "addons/echoblockworks-1.0.0.echo-addon",
-      "assetName": "echoblockworks-1.0.0.echo-addon",
-      "sha256": "1fb4528161244c5ba254a77ac82bf1d44ee2b592d723d44fc9386dcf5489ec93",
-      "size": 789311,
-      "required": true,
-      "moduleId": "echoblockworks",
-      "side": "both",
-      "artifactName": "echoblockworks-1.0.0.echo-addon"
-    },
-    {
-      "path": "addons/echoashfallprotocol-1.0.0.echo-addon",
-      "assetName": "echoashfallprotocol-1.0.0.echo-addon",
-      "sha256": "309ae84adb8924e46db9d522633bc0ac79a96d9d37c4c600613669d34f0fe47d",
-      "size": 58590070,
-      "required": true,
-      "moduleId": "echoashfallprotocol",
-      "side": "both",
-      "artifactName": "echoashfallprotocol-1.0.0.echo-addon"
-    }
-  ],
-  "changelog": [
-    "Ashfall Native Edition public alpha assembled from ECHO .echo-addon modules.",
-    "Published as a prerelease alpha artifact for Native Loader testing."
-  ],
-  "worldgenWarning": true,
-  "ramMb": 8192,
-  "artifactSha256": "941848f5d4b47bfb279bd0134cd87cf9f6b06b1b0886f71e355d7da3340a2cdc",
-  "artifactSize": 93423349
+  "artifacts": []
 }

@@ -14,18 +14,18 @@
     },
     {
       "name": "ashfall-native-edition-alpha-0.1.0.pack.json",
-      "size": 9233,
-      "sha256": "ea024a32c083b14b1205ac53f905597a7fc110df658692b79712046c1c299a01"
+      "size": 23047,
+      "sha256": "0081693de7e14b238aad7d26342fd8eaea76d79b6db6069d52b4ff895a253c20"
     },
     {
       "name": "checksums.txt",
       "size": 294,
-      "sha256": "e03509f4a3fde124d663e7171ec7d915081d64944631ea3ae2e8375b10dd719c"
+      "sha256": "cfc3c45213ee7aa8e4545f40fe9fe439a8e2da1348fbe7d45d447a5505d4f4b1"
     },
     {
       "name": "echo-release.json",
-      "size": 3948,
-      "sha256": "91ec930514ef1732d2dfb9181f4e960c42e67fb6e00b5dd1e401a84d9bc1e9df"
+      "size": 3949,
+      "sha256": "efd1c162a6d1e9cb9dd8b0ed401ea62c579a62c7b5179104819ba1c34ac03212"
     },
     {
       "name": "release-audit.json",
@@ -57,20 +57,20 @@
     },
     {
       "file": "ashfall-native-edition-alpha-0.1.0.pack.json",
-      "expectedSha256": "ea024a32c083b14b1205ac53f905597a7fc110df658692b79712046c1c299a01",
-      "actualSha256": "ea024a32c083b14b1205ac53f905597a7fc110df658692b79712046c1c299a01",
+      "expectedSha256": "0081693de7e14b238aad7d26342fd8eaea76d79b6db6069d52b4ff895a253c20",
+      "actualSha256": "0081693de7e14b238aad7d26342fd8eaea76d79b6db6069d52b4ff895a253c20",
       "coveredBy": "release-asset-file",
       "matchedPath": "ashfall-native-edition-alpha-0.1.0.pack.json",
-      "size": 9233,
+      "size": 23047,
       "ok": true
     },
     {
       "file": "echo-release.json",
-      "expectedSha256": "91ec930514ef1732d2dfb9181f4e960c42e67fb6e00b5dd1e401a84d9bc1e9df",
-      "actualSha256": "91ec930514ef1732d2dfb9181f4e960c42e67fb6e00b5dd1e401a84d9bc1e9df",
+      "expectedSha256": "efd1c162a6d1e9cb9dd8b0ed401ea62c579a62c7b5179104819ba1c34ac03212",
+      "actualSha256": "efd1c162a6d1e9cb9dd8b0ed401ea62c579a62c7b5179104819ba1c34ac03212",
       "coveredBy": "release-asset-file",
       "matchedPath": "echo-release.json",
-      "size": 3948,
+      "size": 3949,
       "ok": true
     }
   ],

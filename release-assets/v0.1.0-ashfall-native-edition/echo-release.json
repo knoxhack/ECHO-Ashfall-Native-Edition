@@ -6,7 +6,7 @@
   "channel": "alpha",
   "releasedAt": "2026-06-11T04:42:40.239Z",
   "manifestAsset": "ashfall-native-edition-alpha-0.1.0.pack.json",
-  "manifestSha256": "ea024a32c083b14b1205ac53f905597a7fc110df658692b79712046c1c299a01",
+  "manifestSha256": "0081693de7e14b238aad7d26342fd8eaea76d79b6db6069d52b4ff895a253c20",
   "artifactMode": "zip",
   "artifactAsset": "ashfall-native-edition-0.1.0.zip",
   "artifactSha256": "941848f5d4b47bfb279bd0134cd87cf9f6b06b1b0886f71e355d7da3340a2cdc",
@@ -25,8 +25,8 @@
     {
       "name": "ashfall-native-edition-alpha-0.1.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "ea024a32c083b14b1205ac53f905597a7fc110df658692b79712046c1c299a01",
-      "size": 9233
+      "sha256": "0081693de7e14b238aad7d26342fd8eaea76d79b6db6069d52b4ff895a253c20",
+      "size": 23047
     },
     {
       "name": "ashfall-native-edition-0.1.0.zip",
