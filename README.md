@@ -28,6 +28,14 @@ Run commands from the repository root.
 
 Pack manifests, pack archives, per-file assets, and native edition release notes belong here. Shared module artifacts stay in `ECHO-Modules`.
 
+## Release Assets
+
+The current public alpha prerelease payload is tracked under `release-assets/v0.1.0-ashfall-native-edition/`.
+
+- `ashfall-native-edition-0.1.0.zip` is stored with Git LFS.
+- `ashfall-native-edition-alpha-0.1.0.pack.json`, `echo-release.json`, and `checksums.txt` are checked in beside it.
+- `release-audit.json` records the downloaded GitHub release asset hashes and any checksum/release asset mismatch.
+
 ## Docs Index
 
 - [docs/install.md](docs/install.md)
@@ -42,7 +50,8 @@ Pack manifests, pack archives, per-file assets, and native edition release notes
 - [docs/NATIVE_KNOWN_LIMITATIONS.md](docs/NATIVE_KNOWN_LIMITATIONS.md)
 - [docs/NATIVE_MOD_AUTHOR_GUIDE.md](docs/NATIVE_MOD_AUTHOR_GUIDE.md)
 - [docs/NATIVE_ROLLBACK_GUIDE.md](docs/NATIVE_ROLLBACK_GUIDE.md)
-- [docs/official_packs/ashfall/CHANGELOG_1.0.0.md](docs/official_packs/ashfall/CHANGELOG_1.0.0.md)
+- [docs/official_packs/ashfall/CHANGELOG_1.7.6.md](docs/official_packs/ashfall/CHANGELOG_1.7.6.md)
+- [docs/official_packs/ashfall/SCREENSHOT_REQUIREMENTS.md](docs/official_packs/ashfall/SCREENSHOT_REQUIREMENTS.md)
 - [PUBLIC_ALPHA_RELEASE_STATUS.md](PUBLIC_ALPHA_RELEASE_STATUS.md)
 
 ## Related Repos

@@ -11,20 +11,25 @@
     "javaVersion": "25",
     "requiredModules": [
         "echocore",
+        "echoplatformcore",
+        "echoadaptercore",
         "echonetcore",
+        "echoruntimeguard",
+        "echolens",
+        "echopresencelink",
+        "echoterminal",
+        "echoblockworks",
         "echoashfallprotocol"
     ],
     "recommendedModules": [
         "echoagriculturereclamation",
         "echoarmory",
         "echoblackboxprotocol",
-        "echoblockworks",
         "echoconvoyprotocol",
         "echodatacore",
         "echoholomap",
         "echoindex",
         "echoindustrialnexus",
-        "echolens",
         "echologisticsnetwork",
         "echomissioncore",
         "echomultiblockcore",
@@ -35,11 +40,9 @@
         "echorecovery",
         "echorelictech",
         "echorendercore",
-        "echoruntimeguard",
         "echoscreencore",
         "echosoundcore",
         "echostationfall",
-        "echoterminal",
         "echothemecore",
         "echotutorialcore",
         "echoweathercore",
@@ -48,7 +51,6 @@
         "signalos"
     ],
     "optionalModules": [
-        "echomodpackcommandcenter",
         "echotextureforge",
         "signalosexample"
     ],
@@ -74,19 +76,15 @@
     "packCardPath": "metadata/assets/official_packs/ashfall/pack_card.png",
     "showcasePath": "metadata/assets/official_packs/ashfall/showcase.png",
     "screenshotsNeeded": [
-        "generated official pack card",
-        "generated Ashfall banner",
-        "generated Ashfall showcase",
         "real first-launch screenshot",
-        "real server/client export screenshot"
+        "real server/client export screenshot",
+        "real route verification screenshot",
+        "real ending verification screenshot"
     ],
-    "screenshots": [
-        "metadata/assets/official_packs/ashfall/pack_card.png",
-        "metadata/assets/official_packs/ashfall/showcase.png"
-    ],
-    "changelogPath": "docs/official_packs/ashfall/CHANGELOG_1.0.0.md",
+    "screenshots": [],
+    "changelogPath": "docs/official_packs/ashfall/CHANGELOG_1.7.6.md",
     "knownIssuesPath": "docs/official_packs/ashfall/KNOWN_ISSUES.md",
-    "releaseNotesPath": "docs/RELEASE_NOTES_1.0.0.md",
+    "releaseNotesPath": "docs/NATIVE_RELEASE_NOTES.md",
     "supportPath": "docs/SUPPORT.md",
     "serverPackSupport": true,
     "clientPackSupport": true,

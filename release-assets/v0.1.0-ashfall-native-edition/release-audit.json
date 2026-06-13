@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-06-13T00:55:39.7325468Z",
+  "repository": "knoxhack/ECHO-Ashfall-Native-Edition",
+  "releaseTag": "v0.1.0-ashfall-native-edition",
+  "status": "verified",
+  "releaseUrl": "https://github.com/knoxhack/ECHO-Ashfall-Native-Edition/releases/tag/v0.1.0-ashfall-native-edition",
+  "assetDirectory": "release-assets/v0.1.0-ashfall-native-edition",
+  "assets": [
+    {
+      "name": "ashfall-native-edition-0.1.0.zip",
+      "size": 93423349,
+      "sha256": "941848f5d4b47bfb279bd0134cd87cf9f6b06b1b0886f71e355d7da3340a2cdc"
+    },
+    {
+      "name": "ashfall-native-edition-alpha-0.1.0.pack.json",
+      "size": 9233,
+      "sha256": "ea024a32c083b14b1205ac53f905597a7fc110df658692b79712046c1c299a01"
+    },
+    {
+      "name": "checksums.txt",
+      "size": 294,
+      "sha256": "e03509f4a3fde124d663e7171ec7d915081d64944631ea3ae2e8375b10dd719c"
+    },
+    {
+      "name": "echo-release.json",
+      "size": 3948,
+      "sha256": "91ec930514ef1732d2dfb9181f4e960c42e67fb6e00b5dd1e401a84d9bc1e9df"
+    },
+    {
+      "name": "release-audit.json",
+      "size": 5383,
+      "sha256": "a2169b60d499bb333a7fe4f1d1f4d4e50a7f4886144b3c75c06d1658cfcccca2"
+    }
+  ],
+  "zip": {
+    "file": "ashfall-native-edition-0.1.0.zip",
+    "entries": 13,
+    "sha256": "941848f5d4b47bfb279bd0134cd87cf9f6b06b1b0886f71e355d7da3340a2cdc"
+  },
+  "checksumCoverage": {
+    "total": 3,
+    "releaseAssetFiles": 3,
+    "zipEntries": 0,
+    "missing": 0,
+    "mismatched": 0
+  },
+  "checksumEntries": [
+    {
+      "file": "ashfall-native-edition-0.1.0.zip",
+      "expectedSha256": "941848f5d4b47bfb279bd0134cd87cf9f6b06b1b0886f71e355d7da3340a2cdc",
+      "actualSha256": "941848f5d4b47bfb279bd0134cd87cf9f6b06b1b0886f71e355d7da3340a2cdc",
+      "coveredBy": "release-asset-file",
+      "matchedPath": "ashfall-native-edition-0.1.0.zip",
+      "size": 93423349,
+      "ok": true
+    },
+    {
+      "file": "ashfall-native-edition-alpha-0.1.0.pack.json",
+      "expectedSha256": "ea024a32c083b14b1205ac53f905597a7fc110df658692b79712046c1c299a01",
+      "actualSha256": "ea024a32c083b14b1205ac53f905597a7fc110df658692b79712046c1c299a01",
+      "coveredBy": "release-asset-file",
+      "matchedPath": "ashfall-native-edition-alpha-0.1.0.pack.json",
+      "size": 9233,
+      "ok": true
+    },
+    {
+      "file": "echo-release.json",
+      "expectedSha256": "91ec930514ef1732d2dfb9181f4e960c42e67fb6e00b5dd1e401a84d9bc1e9df",
+      "actualSha256": "91ec930514ef1732d2dfb9181f4e960c42e67fb6e00b5dd1e401a84d9bc1e9df",
+      "coveredBy": "release-asset-file",
+      "matchedPath": "echo-release.json",
+      "size": 3948,
+      "ok": true
+    }
+  ],
+  "missingChecksumEntries": [],
+  "mismatchedChecksumEntries": []
+}

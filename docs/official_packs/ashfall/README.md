@@ -4,9 +4,9 @@ Ashfall is the first official ECHO modpack: a ruined-world sci-fi survival exper
 
 ## Status
 
-Beta packaging candidate for ECHO 1.5.4.
+Release-candidate metadata for ECHO 1.7.6. Public release remains blocked until the known-issues release gates are cleared.
 
-## 1.5.4 Showcase Flow
+## 1.7.6 Showcase Flow
 
 Ashfall now has a clear first-play showcase route:
 

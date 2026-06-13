@@ -7,8 +7,8 @@
 - Operational note: the default local Gradle output may produce stale class-output or Windows deletion-lock failures during repeated host QA. Use a clean `ECHO_GRADLE_BUILD_DIR` such as `C:\Users\knox\AppData\Local\EchoGradleBuildAgent7` when collecting release evidence.
 - Manual first-hour smoke testing still needs to be run in a real client world before claiming public release readiness.
 - Dedicated server smoke testing still needs a fresh start, join, and shutdown pass.
-- Real gameplay screenshots should be captured for storefront galleries and Launcher galleries.
+- Real gameplay screenshots should be captured for storefront galleries and Launcher galleries; see `SCREENSHOT_REQUIREMENTS.md`.
 - Server/client export smoke tests should be run before broad announcement.
 - RenderCore pending production boards remain shared visual-review debt.
 - ScreenCore Terminal pages remain opt-in through `terminal.screenCoreExperimentalTabs=true`; the classic Terminal renderer is still the safe default path.
-- Official Pack #2 remains out of scope for Ashfall 1.0.0 stabilization.
+- Official Pack #2 remains out of scope for Ashfall 1.7.6 stabilization.

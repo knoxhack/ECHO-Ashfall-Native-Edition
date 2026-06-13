@@ -5,20 +5,25 @@
     "modules": {
         "required": [
             "echocore",
+            "echoplatformcore",
+            "echoadaptercore",
             "echonetcore",
+            "echoruntimeguard",
+            "echolens",
+            "echopresencelink",
+            "echoterminal",
+            "echoblockworks",
             "echoashfallprotocol"
         ],
         "recommended": [
             "echoagriculturereclamation",
             "echoarmory",
             "echoblackboxprotocol",
-            "echoblockworks",
             "echoconvoyprotocol",
             "echodatacore",
             "echoholomap",
             "echoindex",
             "echoindustrialnexus",
-            "echolens",
             "echologisticsnetwork",
             "echomissioncore",
             "echomultiblockcore",
@@ -29,11 +34,9 @@
             "echorecovery",
             "echorelictech",
             "echorendercore",
-            "echoruntimeguard",
             "echoscreencore",
             "echosoundcore",
             "echostationfall",
-            "echoterminal",
             "echothemecore",
             "echotutorialcore",
             "echoweathercore",
@@ -42,7 +45,6 @@
             "signalos"
         ],
         "optional": [
-            "echomodpackcommandcenter",
             "echotextureforge",
             "signalosexample"
         ]
@@ -114,7 +116,7 @@
     ],
     "ashfallIsolation": "Ashfall content loads through the official pack profile and echoashfallprotocol namespace; reusable modules remain generic.",
     "supportPath": "docs/SUPPORT.md",
-    "changelogPath": "docs/official_packs/ashfall/CHANGELOG_1.0.0.md",
+    "changelogPath": "docs/official_packs/ashfall/CHANGELOG_1.7.6.md",
     "knownIssuesPath": "docs/official_packs/ashfall/KNOWN_ISSUES.md",
     "serverPackSupport": true,
     "clientPackSupport": true,

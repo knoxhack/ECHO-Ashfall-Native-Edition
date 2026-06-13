@@ -1,0 +1,112 @@
+{
+  "formatVersion": 2,
+  "pack": "ashfall-native-edition",
+  "name": "Ashfall Native Edition",
+  "version": "0.1.0",
+  "channel": "alpha",
+  "releasedAt": "2026-06-11T04:42:40.239Z",
+  "manifestAsset": "ashfall-native-edition-alpha-0.1.0.pack.json",
+  "manifestSha256": "ea024a32c083b14b1205ac53f905597a7fc110df658692b79712046c1c299a01",
+  "artifactMode": "zip",
+  "artifactAsset": "ashfall-native-edition-0.1.0.zip",
+  "artifactSha256": "941848f5d4b47bfb279bd0134cd87cf9f6b06b1b0886f71e355d7da3340a2cdc",
+  "artifactSize": 93423349,
+  "packs": [
+    {
+      "pack": "ashfall-native-edition",
+      "name": "Ashfall Native Edition",
+      "version": "0.1.0",
+      "channel": "alpha",
+      "manifestAsset": "ashfall-native-edition-alpha-0.1.0.pack.json",
+      "artifactAsset": "ashfall-native-edition-0.1.0.zip"
+    }
+  ],
+  "assets": [
+    {
+      "name": "ashfall-native-edition-alpha-0.1.0.pack.json",
+      "role": "pack-manifest",
+      "sha256": "ea024a32c083b14b1205ac53f905597a7fc110df658692b79712046c1c299a01",
+      "size": 9233
+    },
+    {
+      "name": "ashfall-native-edition-0.1.0.zip",
+      "role": "pack-artifact",
+      "sha256": "941848f5d4b47bfb279bd0134cd87cf9f6b06b1b0886f71e355d7da3340a2cdc",
+      "size": 93423349
+    },
+    {
+      "name": "echocore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echocore-1.0.0.echo-addon",
+      "sha256": "a00395f5818b0d31aa8c36e0be611feab31d35bd95364aca1144d4eb5fb0ac55",
+      "size": 205715
+    },
+    {
+      "name": "echoplatformcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoplatformcore-1.0.0.echo-addon",
+      "sha256": "666f2a03e2e4a12bcf423a09a238e2bcfb06170334c41ada929c28368a7f4e05",
+      "size": 44852
+    },
+    {
+      "name": "echoadaptercore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoadaptercore-1.0.0.echo-addon",
+      "sha256": "c1e43b95d8b2a78c5aa0fa91146d7928ff6d7d55cee9905f4311c314eff96c3a",
+      "size": 803858
+    },
+    {
+      "name": "echonetcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echonetcore-1.0.0.echo-addon",
+      "sha256": "f81a5c6c9f3d762b421194d708b64e322f1eba5b0268a9e7814b104d3d741943",
+      "size": 64461
+    },
+    {
+      "name": "echoruntimeguard-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoruntimeguard-1.0.0.echo-addon",
+      "sha256": "c99c4c5141b542f0d4d29477b423c3c50f296356e9642c4fadd113a57c58e47b",
+      "size": 121012
+    },
+    {
+      "name": "echolens-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echolens-1.0.0.echo-addon",
+      "sha256": "b86707d4eb3f70f891d1f0a737b25bc7dba34a036953948375a9b08479f0d1fc",
+      "size": 201277
+    },
+    {
+      "name": "echopresencelink-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echopresencelink-1.0.0.echo-addon",
+      "sha256": "1803a8a0db1eced385b773753129b53737ec4ed81a11b569f2578fdd94709f7e",
+      "size": 10140208
+    },
+    {
+      "name": "echoterminal-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoterminal-1.0.0.echo-addon",
+      "sha256": "3a224cce63ac165ec7fe3309c453d1707a5ad3e0f8f036417a407a78e4ae05cc",
+      "size": 22450117
+    },
+    {
+      "name": "echoblockworks-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoblockworks-1.0.0.echo-addon",
+      "sha256": "1fb4528161244c5ba254a77ac82bf1d44ee2b592d723d44fc9386dcf5489ec93",
+      "size": 789311
+    },
+    {
+      "name": "echoashfallprotocol-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoashfallprotocol-1.0.0.echo-addon",
+      "sha256": "309ae84adb8924e46db9d522633bc0ac79a96d9d37c4c600613669d34f0fe47d",
+      "size": 58590070
+    }
+  ],
+  "notes": [
+    "Ashfall Native Edition public alpha assembled from ECHO .echo-addon modules.",
+    "Fresh installs use the verified full pack archive; module assets remain pinned by SHA-256."
+  ]
+}
