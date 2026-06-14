@@ -42,7 +42,7 @@
             "echoweathercore",
             "echowiki",
             "echoworldcore",
-            "signalos"
+            "echosignalos"
         ],
         "optional": [
             "echotextureforge",

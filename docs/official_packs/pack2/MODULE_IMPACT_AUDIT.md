@@ -14,7 +14,7 @@ Rule: if a change benefits all packs, add it to the reusable module. If it is Pa
 | `echodatacore` | Optional | Facility/team state could be generic | Pack #2 facility flags | Yes | Maybe team progress hooks | No |
 | `echomultiblockcore` | Yes | Generic workcell status summaries | Foundry workcell plans | Yes | Maybe status provider | Later block visuals |
 | `echoruntimeguard` | Yes | Factory scaling budget presets could help all automation packs | Foundry budget checklist | Yes | No | No |
-| `signalos` | Optional | No | Optional operator terminal bridge | Yes | No | No |
+| `echosignalos` | Optional | No | Optional operator terminal bridge | Yes | No | No |
 | `signalosexample` | No | No | No | Yes | No | No |
 | `echorendercore` | Optional | No | Future showcase renders only | Yes | No | Later preview art |
 | `echothemecore` | Yes | No | Industrial theme token selection | Yes | No | Later pack branding |
