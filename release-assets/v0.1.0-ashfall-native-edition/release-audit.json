@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-14T11:32:33.2391301Z",
+  "generatedAt": "2026-06-14T22:35:23.110Z",
   "repository": "knoxhack/ECHO-Ashfall-Native-Edition",
   "releaseTag": "v0.1.0-ashfall-native-edition",
-  "status": "verified-prerelease-assets",
+  "status": "pass",
   "releaseUrl": "https://github.com/knoxhack/ECHO-Ashfall-Native-Edition/releases/tag/v0.1.0-ashfall-native-edition",
-  "assetDirectory": "release-assets/v0.1.0-ashfall-native-edition",
+  "assetDirectory": "C:\\Development\\Github\\ECHO-Ashfall-Native-Edition\\release-assets\\v0.1.0-ashfall-native-edition",
   "uploadedReleaseAssets": [
     "ashfall-native-edition-0.1.0.zip",
     "ashfall-native-edition-alpha-0.1.0.pack.json",
@@ -18,42 +18,50 @@
   "assets": [
     {
       "name": "ashfall-native-edition-0.1.0.zip",
-      "size": 267527272,
-      "sha256": "3e64b2e0b92fdea044107055faf6ea819cf39d178b97de8f9e6e16ce0b18f77c"
+      "size": 267529544,
+      "sha256": "838317f48ddfa608a055c12eb8c2e1c8e6ed176d32c4870010c5cb4665e5245d"
     },
     {
       "name": "ashfall-native-edition-alpha-0.1.0.pack.json",
-      "size": 55741,
-      "sha256": "60a5e5eef5d9b0f62382ac219c4f1625c43f3e997b36d8a0a34f2f632ae90709"
+      "size": 56309,
+      "sha256": "9383226c8d38e50746e6bdcb665698a035e9456e21019050a1cee2068b170843"
     },
     {
       "name": "checksums.txt",
       "size": 294,
-      "sha256": "436426cf9b52011e1a39d817d67683826c826d03fa26c521dcbd92925898a925"
+      "sha256": "70c7c2f83c5fb09513673c284dbea228c867a919fd687b64967e9aff77af477b"
     },
     {
       "name": "echo-release.json",
       "size": 13240,
-      "sha256": "dfac68b835633719536147c7ad29144400f43a952c295bec74798ad5fcf7ae3d"
+      "sha256": "5bd8ecd38abd62c5f939051ff9bd19718ae3b5d67fba67a55352999be96f5c14"
     }
   ],
   "zip": {
     "file": "ashfall-native-edition-0.1.0.zip",
     "entries": 49,
-    "sha256": "3e64b2e0b92fdea044107055faf6ea819cf39d178b97de8f9e6e16ce0b18f77c"
+    "sha256": "838317f48ddfa608a055c12eb8c2e1c8e6ed176d32c4870010c5cb4665e5245d"
   },
   "checksumCoverage": {
-    "total": 49,
-    "releaseAssetFiles": 3,
-    "zipEntries": 46,
+    "total": 11,
+    "ok": 11,
     "missing": 0,
     "mismatched": 0
   },
   "checksumEntries": [
     {
+      "file": "ashfall-native-edition-alpha-0.1.0.pack.json",
+      "expectedSha256": "9383226c8d38e50746e6bdcb665698a035e9456e21019050a1cee2068b170843",
+      "actualSha256": "9383226c8d38e50746e6bdcb665698a035e9456e21019050a1cee2068b170843",
+      "coveredBy": "release-asset-file",
+      "matchedPath": "ashfall-native-edition-alpha-0.1.0.pack.json",
+      "size": 56309,
+      "ok": true
+    },
+    {
       "file": "echo-release.json",
-      "expectedSha256": "dfac68b835633719536147c7ad29144400f43a952c295bec74798ad5fcf7ae3d",
-      "actualSha256": "dfac68b835633719536147c7ad29144400f43a952c295bec74798ad5fcf7ae3d",
+      "expectedSha256": "5bd8ecd38abd62c5f939051ff9bd19718ae3b5d67fba67a55352999be96f5c14",
+      "actualSha256": "5bd8ecd38abd62c5f939051ff9bd19718ae3b5d67fba67a55352999be96f5c14",
       "coveredBy": "release-asset-file",
       "matchedPath": "echo-release.json",
       "size": 13240,
@@ -61,434 +69,83 @@
     },
     {
       "file": "ashfall-native-edition-0.1.0.zip",
-      "expectedSha256": "3e64b2e0b92fdea044107055faf6ea819cf39d178b97de8f9e6e16ce0b18f77c",
-      "actualSha256": "3e64b2e0b92fdea044107055faf6ea819cf39d178b97de8f9e6e16ce0b18f77c",
+      "expectedSha256": "838317f48ddfa608a055c12eb8c2e1c8e6ed176d32c4870010c5cb4665e5245d",
+      "actualSha256": "838317f48ddfa608a055c12eb8c2e1c8e6ed176d32c4870010c5cb4665e5245d",
       "coveredBy": "release-asset-file",
       "matchedPath": "ashfall-native-edition-0.1.0.zip",
-      "size": 267527272,
-      "ok": true
-    },
-    {
-      "file": "ashfall-native-edition-alpha-0.1.0.pack.json",
-      "expectedSha256": "60a5e5eef5d9b0f62382ac219c4f1625c43f3e997b36d8a0a34f2f632ae90709",
-      "actualSha256": "60a5e5eef5d9b0f62382ac219c4f1625c43f3e997b36d8a0a34f2f632ae90709",
-      "coveredBy": "release-asset-file",
-      "matchedPath": "ashfall-native-edition-alpha-0.1.0.pack.json",
-      "size": 55741,
+      "size": 267529544,
       "ok": true
     },
     {
       "file": "echoadaptercore-1.0.0.echo-addon",
-      "expectedSha256": "280f187007105ba217c7ac9d8a0ef66c36c46e9f693513349093dfd00eb65b8f",
-      "actualSha256": "280f187007105ba217c7ac9d8a0ef66c36c46e9f693513349093dfd00eb65b8f",
+      "expectedSha256": "03b229cfd7f039aa161323eb868d96b9fb43fce5c8a594cfbd0ad9042d1d9660",
+      "actualSha256": "03b229cfd7f039aa161323eb868d96b9fb43fce5c8a594cfbd0ad9042d1d9660",
       "coveredBy": "zip-entry",
       "matchedPath": "addons/echoadaptercore-1.0.0.echo-addon",
-      "size": 819388,
-      "ok": true
-    },
-    {
-      "file": "echoagriculturereclamation-1.0.0.echo-addon",
-      "expectedSha256": "46ac7af965841995030b685336f4c7c252fc166784163d90a3c56aef527f35f5",
-      "actualSha256": "46ac7af965841995030b685336f4c7c252fc166784163d90a3c56aef527f35f5",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echoagriculturereclamation-1.0.0.echo-addon",
-      "size": 383153,
-      "ok": true
-    },
-    {
-      "file": "echoarmory-1.0.0.echo-addon",
-      "expectedSha256": "77af88c0558c93fb2b21225fd07beb92d93f1be830fadf32469897c2a13bc34d",
-      "actualSha256": "77af88c0558c93fb2b21225fd07beb92d93f1be830fadf32469897c2a13bc34d",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echoarmory-1.0.0.echo-addon",
-      "size": 10367042,
+      "size": 820360,
       "ok": true
     },
     {
       "file": "echoashfallprotocol-1.0.0.echo-addon",
-      "expectedSha256": "4136cfc52f2fe64c6076c94476ab263d10b4db30d0d196fa1d08c795572db5d4",
-      "actualSha256": "4136cfc52f2fe64c6076c94476ab263d10b4db30d0d196fa1d08c795572db5d4",
+      "expectedSha256": "86ab1f451d054e1c3ca909aa45888b00f239b811a32f96c45441a003d7830d76",
+      "actualSha256": "86ab1f451d054e1c3ca909aa45888b00f239b811a32f96c45441a003d7830d76",
       "coveredBy": "zip-entry",
       "matchedPath": "addons/echoashfallprotocol-1.0.0.echo-addon",
-      "size": 58628496,
-      "ok": true
-    },
-    {
-      "file": "echoblackboxprotocol-1.0.0.echo-addon",
-      "expectedSha256": "138ca5c222ea412cd79fc347b4d62638d6d12f2596e2586d6f7ee2ac7483fa36",
-      "actualSha256": "138ca5c222ea412cd79fc347b4d62638d6d12f2596e2586d6f7ee2ac7483fa36",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echoblackboxprotocol-1.0.0.echo-addon",
-      "size": 10779948,
-      "ok": true
-    },
-    {
-      "file": "echoblockworks-1.0.0.echo-addon",
-      "expectedSha256": "8d23c2ef90d376830130d10fc0491299bc496a21bc2b6fded62cabb5c5623b27",
-      "actualSha256": "8d23c2ef90d376830130d10fc0491299bc496a21bc2b6fded62cabb5c5623b27",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echoblockworks-1.0.0.echo-addon",
-      "size": 793525,
-      "ok": true
-    },
-    {
-      "file": "echocommonloot-0.1.0.echo-addon",
-      "expectedSha256": "94935662a2b0be71d303a6575f9c70ffac3e0da4f38fb6e642e53a4ec6079812",
-      "actualSha256": "94935662a2b0be71d303a6575f9c70ffac3e0da4f38fb6e642e53a4ec6079812",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echocommonloot-0.1.0.echo-addon",
-      "size": 9355,
-      "ok": true
-    },
-    {
-      "file": "echocontentcore-1.0.0.echo-addon",
-      "expectedSha256": "833745d02539b1987b4e606e17bc7d5fe1d0d702b6c64fb6209cfb91af220253",
-      "actualSha256": "833745d02539b1987b4e606e17bc7d5fe1d0d702b6c64fb6209cfb91af220253",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echocontentcore-1.0.0.echo-addon",
-      "size": 33719,
-      "ok": true
-    },
-    {
-      "file": "echoconvoyprotocol-1.0.0.echo-addon",
-      "expectedSha256": "01ea8abf695dc2a63274b033e9985baccbbe054fc56a6dd55b0f540680f09c1b",
-      "actualSha256": "01ea8abf695dc2a63274b033e9985baccbbe054fc56a6dd55b0f540680f09c1b",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echoconvoyprotocol-1.0.0.echo-addon",
-      "size": 737723,
-      "ok": true
-    },
-    {
-      "file": "echocore-1.0.0.echo-addon",
-      "expectedSha256": "d8f0cf080494f54c5468d8b761bc4177c098175fe8c82a2d249619f0599a1a2f",
-      "actualSha256": "d8f0cf080494f54c5468d8b761bc4177c098175fe8c82a2d249619f0599a1a2f",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echocore-1.0.0.echo-addon",
-      "size": 333827,
-      "ok": true
-    },
-    {
-      "file": "echocreatureroles-0.1.0.echo-addon",
-      "expectedSha256": "112a89a2253a478003c88247716fd7b5aed06df133cfdc929a16f63f96140178",
-      "actualSha256": "112a89a2253a478003c88247716fd7b5aed06df133cfdc929a16f63f96140178",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echocreatureroles-0.1.0.echo-addon",
-      "size": 9029,
-      "ok": true
-    },
-    {
-      "file": "echodatacore-1.0.0.echo-addon",
-      "expectedSha256": "985fe60db9a615505296ee8810a65926501ace00e4eff95990bafb0c6ef5423c",
-      "actualSha256": "985fe60db9a615505296ee8810a65926501ace00e4eff95990bafb0c6ef5423c",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echodatacore-1.0.0.echo-addon",
-      "size": 102766,
-      "ok": true
-    },
-    {
-      "file": "echofoundationcore-0.1.0.echo-addon",
-      "expectedSha256": "167719c62f1c302363888b097a673ae2137e030774bf062aa04994abfef67a28",
-      "actualSha256": "167719c62f1c302363888b097a673ae2137e030774bf062aa04994abfef67a28",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echofoundationcore-0.1.0.echo-addon",
-      "size": 12366,
+      "size": 58628493,
       "ok": true
     },
     {
       "file": "echoholomap-1.0.0.echo-addon",
-      "expectedSha256": "8581c9e05167678e92ea22da13931c85278b6dd64814f478b4922b231dcd9842",
-      "actualSha256": "8581c9e05167678e92ea22da13931c85278b6dd64814f478b4922b231dcd9842",
+      "expectedSha256": "5400c0ed774d0c4805babd92e03fe1d2c8e80edd9e3eb8b65f847b9f49b2da47",
+      "actualSha256": "5400c0ed774d0c4805babd92e03fe1d2c8e80edd9e3eb8b65f847b9f49b2da47",
       "coveredBy": "zip-entry",
       "matchedPath": "addons/echoholomap-1.0.0.echo-addon",
-      "size": 1471376,
+      "size": 1471614,
       "ok": true
     },
     {
       "file": "echohudcore-1.0.0.echo-addon",
-      "expectedSha256": "3ea250880f2a32e28851ee4e1259509507062a04ec370782000b823fa2745a4d",
-      "actualSha256": "3ea250880f2a32e28851ee4e1259509507062a04ec370782000b823fa2745a4d",
+      "expectedSha256": "f936ee5ea07ec7d6946955d46dc6ffdfe65241679a1346846c9e84473e1898c4",
+      "actualSha256": "f936ee5ea07ec7d6946955d46dc6ffdfe65241679a1346846c9e84473e1898c4",
       "coveredBy": "zip-entry",
       "matchedPath": "addons/echohudcore-1.0.0.echo-addon",
-      "size": 47417,
+      "size": 47419,
       "ok": true
     },
     {
       "file": "echoindex-1.0.0.echo-addon",
-      "expectedSha256": "9ca8da64ba6daed19eb65f2578a2cc236c2ac3017bd7e0657b5fc295fd51dcba",
-      "actualSha256": "9ca8da64ba6daed19eb65f2578a2cc236c2ac3017bd7e0657b5fc295fd51dcba",
+      "expectedSha256": "1f4065b7f21c6ccb642c4185c5bcb63fea98bf776cfd993523af1cc048119898",
+      "actualSha256": "1f4065b7f21c6ccb642c4185c5bcb63fea98bf776cfd993523af1cc048119898",
       "coveredBy": "zip-entry",
       "matchedPath": "addons/echoindex-1.0.0.echo-addon",
-      "size": 562026,
-      "ok": true
-    },
-    {
-      "file": "echoindustrialnexus-1.0.0.echo-addon",
-      "expectedSha256": "fdf5ba00625a3496023c8b930653c4fe97f696a85c40bb57257fd0b102e14c08",
-      "actualSha256": "fdf5ba00625a3496023c8b930653c4fe97f696a85c40bb57257fd0b102e14c08",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echoindustrialnexus-1.0.0.echo-addon",
-      "size": 5000773,
+      "size": 562194,
       "ok": true
     },
     {
       "file": "echolens-1.0.0.echo-addon",
-      "expectedSha256": "8ddcbf43f58dbab7b1922a715e56abb968b6efe279d0975a713cb4d219bdf463",
-      "actualSha256": "8ddcbf43f58dbab7b1922a715e56abb968b6efe279d0975a713cb4d219bdf463",
+      "expectedSha256": "4c53e6c47ff52e3a7e05932d705ce89cd3fb112de5c596616139e7bfab9831fc",
+      "actualSha256": "4c53e6c47ff52e3a7e05932d705ce89cd3fb112de5c596616139e7bfab9831fc",
       "coveredBy": "zip-entry",
       "matchedPath": "addons/echolens-1.0.0.echo-addon",
-      "size": 207297,
-      "ok": true
-    },
-    {
-      "file": "echologisticsnetwork-1.0.0.echo-addon",
-      "expectedSha256": "6a8190793158ee3a9d045d88a50d323eee2fa5c2d0b86f3fb1df101f734cc26d",
-      "actualSha256": "6a8190793158ee3a9d045d88a50d323eee2fa5c2d0b86f3fb1df101f734cc26d",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echologisticsnetwork-1.0.0.echo-addon",
-      "size": 3642081,
-      "ok": true
-    },
-    {
-      "file": "echomaterialcore-0.1.0.echo-addon",
-      "expectedSha256": "5677249a5b2b86a81da5a6f77afff62b76efd0116026d66d6538ec5fad8dc34f",
-      "actualSha256": "5677249a5b2b86a81da5a6f77afff62b76efd0116026d66d6538ec5fad8dc34f",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echomaterialcore-0.1.0.echo-addon",
-      "size": 14649,
-      "ok": true
-    },
-    {
-      "file": "echomissioncore-1.0.0.echo-addon",
-      "expectedSha256": "8e041412c8f971fbccbca8e1f7c4829bf1051f628f01b6515fadb03297116c14",
-      "actualSha256": "8e041412c8f971fbccbca8e1f7c4829bf1051f628f01b6515fadb03297116c14",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echomissioncore-1.0.0.echo-addon",
-      "size": 103635,
-      "ok": true
-    },
-    {
-      "file": "echomultiblockcore-1.0.0.echo-addon",
-      "expectedSha256": "b5d51c84459886f720da68b122515bc6a52c2fca6a8b39d60ecdfc28e895a4af",
-      "actualSha256": "b5d51c84459886f720da68b122515bc6a52c2fca6a8b39d60ecdfc28e895a4af",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echomultiblockcore-1.0.0.echo-addon",
-      "size": 12611993,
-      "ok": true
-    },
-    {
-      "file": "echonetcore-1.0.0.echo-addon",
-      "expectedSha256": "1e597d1d3d543c6f6c29a464f8dc866714e635bf7294ae2acdb9534ba7ce42df",
-      "actualSha256": "1e597d1d3d543c6f6c29a464f8dc866714e635bf7294ae2acdb9534ba7ce42df",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echonetcore-1.0.0.echo-addon",
-      "size": 64993,
-      "ok": true
-    },
-    {
-      "file": "echonexusprotocol-1.0.0.echo-addon",
-      "expectedSha256": "5ae4a0f012af3cb1321e5f33ee7e773bafe5eaf6f826ab83cb3668ab1a5aca1a",
-      "actualSha256": "5ae4a0f012af3cb1321e5f33ee7e773bafe5eaf6f826ab83cb3668ab1a5aca1a",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echonexusprotocol-1.0.0.echo-addon",
-      "size": 13788880,
-      "ok": true
-    },
-    {
-      "file": "echoorbitalremnants-1.0.0.echo-addon",
-      "expectedSha256": "8f7634e337b2f0ef69c0400ff726fbdd56f6201b5b7d9ccf6470bb115c38aa27",
-      "actualSha256": "8f7634e337b2f0ef69c0400ff726fbdd56f6201b5b7d9ccf6470bb115c38aa27",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echoorbitalremnants-1.0.0.echo-addon",
-      "size": 14311777,
-      "ok": true
-    },
-    {
-      "file": "echoplatformcore-1.0.0.echo-addon",
-      "expectedSha256": "4c38be04c68453932907f1d7033bee5b82687985116b20c7f82194b530fb2fbc",
-      "actualSha256": "4c38be04c68453932907f1d7033bee5b82687985116b20c7f82194b530fb2fbc",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echoplatformcore-1.0.0.echo-addon",
-      "size": 45274,
-      "ok": true
-    },
-    {
-      "file": "echopowergrid-1.0.0.echo-addon",
-      "expectedSha256": "f0a64f39f58278238e2a1554e82391cc4341c2c11f4e09ebff779a450aec9906",
-      "actualSha256": "f0a64f39f58278238e2a1554e82391cc4341c2c11f4e09ebff779a450aec9906",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echopowergrid-1.0.0.echo-addon",
-      "size": 7146713,
-      "ok": true
-    },
-    {
-      "file": "echorecovery-1.3.0.echo-addon",
-      "expectedSha256": "3060ab875190b5369f28d1411e8b378a40f4045ef2634af522566d42df1c473e",
-      "actualSha256": "3060ab875190b5369f28d1411e8b378a40f4045ef2634af522566d42df1c473e",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echorecovery-1.3.0.echo-addon",
-      "size": 2669308,
-      "ok": true
-    },
-    {
-      "file": "echorelictech-1.0.0.echo-addon",
-      "expectedSha256": "6766dfc93d16c9f5383a8816c7832192b0fc4799365395c8b1092498c0e91811",
-      "actualSha256": "6766dfc93d16c9f5383a8816c7832192b0fc4799365395c8b1092498c0e91811",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echorelictech-1.0.0.echo-addon",
-      "size": 7674448,
-      "ok": true
-    },
-    {
-      "file": "echorendercore-1.0.0.echo-addon",
-      "expectedSha256": "ff96ca368602eecfb3453fe31d4b0520e5fc37d7246282b074b26471df86aaaf",
-      "actualSha256": "ff96ca368602eecfb3453fe31d4b0520e5fc37d7246282b074b26471df86aaaf",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echorendercore-1.0.0.echo-addon",
-      "size": 476803,
-      "ok": true
-    },
-    {
-      "file": "echoruntimeguard-1.0.0.echo-addon",
-      "expectedSha256": "f430250dd8ea14f650941fd4174bd01a67bb65abcf81de4458abf383ee47a280",
-      "actualSha256": "f430250dd8ea14f650941fd4174bd01a67bb65abcf81de4458abf383ee47a280",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echoruntimeguard-1.0.0.echo-addon",
-      "size": 121825,
-      "ok": true
-    },
-    {
-      "file": "echoschemacore-1.0.0.echo-addon",
-      "expectedSha256": "d1aaf68539b171003b09a1637e218e45916f5bc3d103f7432396c11bbf76b2bd",
-      "actualSha256": "d1aaf68539b171003b09a1637e218e45916f5bc3d103f7432396c11bbf76b2bd",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echoschemacore-1.0.0.echo-addon",
-      "size": 31301,
-      "ok": true
-    },
-    {
-      "file": "echoscreencore-1.0.0.echo-addon",
-      "expectedSha256": "a545d806263224c32487754b8ee64f7a3696b8353006521125420942cb3b4c4d",
-      "actualSha256": "a545d806263224c32487754b8ee64f7a3696b8353006521125420942cb3b4c4d",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echoscreencore-1.0.0.echo-addon",
-      "size": 362496,
-      "ok": true
-    },
-    {
-      "file": "echosoundcore-1.0.0.echo-addon",
-      "expectedSha256": "8b4f90f967d90535e74bef5a6b23a42740908811a358712d3a839dbca76a3435",
-      "actualSha256": "8b4f90f967d90535e74bef5a6b23a42740908811a358712d3a839dbca76a3435",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echosoundcore-1.0.0.echo-addon",
-      "size": 11080755,
-      "ok": true
-    },
-    {
-      "file": "echostationcore-0.1.0.echo-addon",
-      "expectedSha256": "8e85d5323f03140bc6a77a8310f45af6c0f8c3fde8640dc9e606d3e2e117672f",
-      "actualSha256": "8e85d5323f03140bc6a77a8310f45af6c0f8c3fde8640dc9e606d3e2e117672f",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echostationcore-0.1.0.echo-addon",
-      "size": 10666,
-      "ok": true
-    },
-    {
-      "file": "echostationfall-1.0.0.echo-addon",
-      "expectedSha256": "177b55bc764f973313c8bc703e49f43d7c3b2ccf3835f63c6c7b0772ce688f68",
-      "actualSha256": "177b55bc764f973313c8bc703e49f43d7c3b2ccf3835f63c6c7b0772ce688f68",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echostationfall-1.0.0.echo-addon",
-      "size": 3876559,
+      "size": 207542,
       "ok": true
     },
     {
       "file": "echoterminal-1.0.0.echo-addon",
-      "expectedSha256": "9f14e4573a128542b77190762cf6e5eaad3aeed5739128d4ad4b750b6cf700b7",
-      "actualSha256": "9f14e4573a128542b77190762cf6e5eaad3aeed5739128d4ad4b750b6cf700b7",
+      "expectedSha256": "7b6f21cbb9340c328d736e13cfa5f3de5fe552fa46060a6ccb2a09a7c6c26edf",
+      "actualSha256": "7b6f21cbb9340c328d736e13cfa5f3de5fe552fa46060a6ccb2a09a7c6c26edf",
       "coveredBy": "zip-entry",
       "matchedPath": "addons/echoterminal-1.0.0.echo-addon",
-      "size": 22458319,
+      "size": 22458462,
       "ok": true
     },
     {
       "file": "echothemecore-1.3.0.echo-addon",
-      "expectedSha256": "8bae7aa39512fdd25d7b6cf83e7229433bd9ab582bbfb2d3ae4dc10cfefef54c",
-      "actualSha256": "8bae7aa39512fdd25d7b6cf83e7229433bd9ab582bbfb2d3ae4dc10cfefef54c",
+      "expectedSha256": "60a87a9900158b9d87e3c784bbde9648e2966c02de4e03aaf21e5b39425d529b",
+      "actualSha256": "60a87a9900158b9d87e3c784bbde9648e2966c02de4e03aaf21e5b39425d529b",
       "coveredBy": "zip-entry",
       "matchedPath": "addons/echothemecore-1.3.0.echo-addon",
       "size": 69527108,
-      "ok": true
-    },
-    {
-      "file": "echotoolcore-0.1.0.echo-addon",
-      "expectedSha256": "4aa467e60780789d3e06dcfab7529d4eb1dc608802150e726190358c8b233234",
-      "actualSha256": "4aa467e60780789d3e06dcfab7529d4eb1dc608802150e726190358c8b233234",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echotoolcore-0.1.0.echo-addon",
-      "size": 10565,
-      "ok": true
-    },
-    {
-      "file": "echotutorialcore-1.0.0.echo-addon",
-      "expectedSha256": "6f5347c59556127fdd34aa2f2fa709895c974f3901712821bc31ad54b693c42d",
-      "actualSha256": "6f5347c59556127fdd34aa2f2fa709895c974f3901712821bc31ad54b693c42d",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echotutorialcore-1.0.0.echo-addon",
-      "size": 200596,
-      "ok": true
-    },
-    {
-      "file": "echovalidationcore-1.0.0.echo-addon",
-      "expectedSha256": "ab1d2cc7fdec7a9793fab55bc13ff978b97b09cb3c341959ff12e3b6094dc915",
-      "actualSha256": "ab1d2cc7fdec7a9793fab55bc13ff978b97b09cb3c341959ff12e3b6094dc915",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echovalidationcore-1.0.0.echo-addon",
-      "size": 41901,
-      "ok": true
-    },
-    {
-      "file": "echoweathercore-1.0.0.echo-addon",
-      "expectedSha256": "38022e28e967a8afd7bd45a0cc88fc7e64e6fe6090eef2b81d446599b696f664",
-      "actualSha256": "38022e28e967a8afd7bd45a0cc88fc7e64e6fe6090eef2b81d446599b696f664",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echoweathercore-1.0.0.echo-addon",
-      "size": 201236,
-      "ok": true
-    },
-    {
-      "file": "echowiki-1.0.0.echo-addon",
-      "expectedSha256": "f0904b7fd0ec99c7b2ebe2821b92c46107cec153c1b03c95f26ba9b562c80243",
-      "actualSha256": "f0904b7fd0ec99c7b2ebe2821b92c46107cec153c1b03c95f26ba9b562c80243",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echowiki-1.0.0.echo-addon",
-      "size": 4659686,
-      "ok": true
-    },
-    {
-      "file": "echoworldcore-1.0.0.echo-addon",
-      "expectedSha256": "f9f22aa69c115c4229ef2bc605b4dc260badb5ed0b6e832e8cdbd22a8eda26de",
-      "actualSha256": "f9f22aa69c115c4229ef2bc605b4dc260badb5ed0b6e832e8cdbd22a8eda26de",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echoworldcore-1.0.0.echo-addon",
-      "size": 168787,
-      "ok": true
-    },
-    {
-      "file": "echoworldstarter-0.1.0.echo-addon",
-      "expectedSha256": "ce21df1079db615ad0be77f57c53781282cd46bfe72a7718ad22d8dde80e1b7a",
-      "actualSha256": "ce21df1079db615ad0be77f57c53781282cd46bfe72a7718ad22d8dde80e1b7a",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echoworldstarter-0.1.0.echo-addon",
-      "size": 11707,
-      "ok": true
-    },
-    {
-      "file": "echosignalos-1.0.0.echo-addon",
-      "expectedSha256": "733a0c53299f16e33b8534f7f029f01b7ffc639eb741d5a48d65db9c9fb26806",
-      "actualSha256": "733a0c53299f16e33b8534f7f029f01b7ffc639eb741d5a48d65db9c9fb26806",
-      "coveredBy": "zip-entry",
-      "matchedPath": "addons/echosignalos-1.0.0.echo-addon",
-      "size": 1825197,
       "ok": true
     }
   ],

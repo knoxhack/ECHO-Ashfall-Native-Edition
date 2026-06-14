@@ -6,12 +6,12 @@
   "channel": "alpha",
   "releasedAt": "2026-06-14T01:26:46.837Z",
   "manifestAsset": "ashfall-native-edition-alpha-0.1.0.pack.json",
-  "manifestSha256": "60a5e5eef5d9b0f62382ac219c4f1625c43f3e997b36d8a0a34f2f632ae90709",
-  "manifestSize": 55741,
+  "manifestSha256": "9383226c8d38e50746e6bdcb665698a035e9456e21019050a1cee2068b170843",
+  "manifestSize": 56309,
   "artifactMode": "zip",
   "artifactAsset": "ashfall-native-edition-0.1.0.zip",
-  "artifactSha256": "3e64b2e0b92fdea044107055faf6ea819cf39d178b97de8f9e6e16ce0b18f77c",
-  "artifactSize": 267527272,
+  "artifactSha256": "838317f48ddfa608a055c12eb8c2e1c8e6ed176d32c4870010c5cb4665e5245d",
+  "artifactSize": 267529544,
   "moduleRelease": "modules-all-official-modpacks-runtime-fix-20260614",
   "packs": [
     {
@@ -27,20 +27,20 @@
     {
       "name": "ashfall-native-edition-alpha-0.1.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "60a5e5eef5d9b0f62382ac219c4f1625c43f3e997b36d8a0a34f2f632ae90709",
-      "size": 55741
+      "sha256": "9383226c8d38e50746e6bdcb665698a035e9456e21019050a1cee2068b170843",
+      "size": 56309
     },
     {
       "name": "ashfall-native-edition-0.1.0.zip",
       "role": "pack-artifact",
-      "sha256": "3e64b2e0b92fdea044107055faf6ea819cf39d178b97de8f9e6e16ce0b18f77c",
-      "size": 267527272
+      "sha256": "838317f48ddfa608a055c12eb8c2e1c8e6ed176d32c4870010c5cb4665e5245d",
+      "size": 267529544
     },
     {
       "name": "echoadaptercore-1.0.0.echo-addon",
       "role": "pack-file",
-      "sha256": "280f187007105ba217c7ac9d8a0ef66c36c46e9f693513349093dfd00eb65b8f",
-      "size": 819388,
+      "sha256": "03b229cfd7f039aa161323eb868d96b9fb43fce5c8a594cfbd0ad9042d1d9660",
+      "size": 820360,
       "path": "addons/echoadaptercore-1.0.0.echo-addon"
     },
     {
@@ -60,8 +60,8 @@
     {
       "name": "echoashfallprotocol-1.0.0.echo-addon",
       "role": "pack-file",
-      "sha256": "4136cfc52f2fe64c6076c94476ab263d10b4db30d0d196fa1d08c795572db5d4",
-      "size": 58628496,
+      "sha256": "86ab1f451d054e1c3ca909aa45888b00f239b811a32f96c45441a003d7830d76",
+      "size": 58628493,
       "path": "addons/echoashfallprotocol-1.0.0.echo-addon"
     },
     {
@@ -130,22 +130,22 @@
     {
       "name": "echoholomap-1.0.0.echo-addon",
       "role": "pack-file",
-      "sha256": "8581c9e05167678e92ea22da13931c85278b6dd64814f478b4922b231dcd9842",
-      "size": 1471376,
+      "sha256": "5400c0ed774d0c4805babd92e03fe1d2c8e80edd9e3eb8b65f847b9f49b2da47",
+      "size": 1471614,
       "path": "addons/echoholomap-1.0.0.echo-addon"
     },
     {
       "name": "echohudcore-1.0.0.echo-addon",
       "role": "pack-file",
-      "sha256": "3ea250880f2a32e28851ee4e1259509507062a04ec370782000b823fa2745a4d",
-      "size": 47417,
+      "sha256": "f936ee5ea07ec7d6946955d46dc6ffdfe65241679a1346846c9e84473e1898c4",
+      "size": 47419,
       "path": "addons/echohudcore-1.0.0.echo-addon"
     },
     {
       "name": "echoindex-1.0.0.echo-addon",
       "role": "pack-file",
-      "sha256": "9ca8da64ba6daed19eb65f2578a2cc236c2ac3017bd7e0657b5fc295fd51dcba",
-      "size": 562026,
+      "sha256": "1f4065b7f21c6ccb642c4185c5bcb63fea98bf776cfd993523af1cc048119898",
+      "size": 562194,
       "path": "addons/echoindex-1.0.0.echo-addon"
     },
     {
@@ -158,8 +158,8 @@
     {
       "name": "echolens-1.0.0.echo-addon",
       "role": "pack-file",
-      "sha256": "8ddcbf43f58dbab7b1922a715e56abb968b6efe279d0975a713cb4d219bdf463",
-      "size": 207297,
+      "sha256": "4c53e6c47ff52e3a7e05932d705ce89cd3fb112de5c596616139e7bfab9831fc",
+      "size": 207542,
       "path": "addons/echolens-1.0.0.echo-addon"
     },
     {
@@ -291,14 +291,14 @@
     {
       "name": "echoterminal-1.0.0.echo-addon",
       "role": "pack-file",
-      "sha256": "9f14e4573a128542b77190762cf6e5eaad3aeed5739128d4ad4b750b6cf700b7",
-      "size": 22458319,
+      "sha256": "7b6f21cbb9340c328d736e13cfa5f3de5fe552fa46060a6ccb2a09a7c6c26edf",
+      "size": 22458462,
       "path": "addons/echoterminal-1.0.0.echo-addon"
     },
     {
       "name": "echothemecore-1.3.0.echo-addon",
       "role": "pack-file",
-      "sha256": "8bae7aa39512fdd25d7b6cf83e7229433bd9ab582bbfb2d3ae4dc10cfefef54c",
+      "sha256": "60a87a9900158b9d87e3c784bbde9648e2966c02de4e03aaf21e5b39425d529b",
       "size": 69527108,
       "path": "addons/echothemecore-1.3.0.echo-addon"
     },
