@@ -18,29 +18,29 @@
   "assets": [
     {
       "name": "ashfall-native-edition-0.1.0.zip",
-      "size": 267548766,
-      "sha256": "eb987dac02e339854610211ac372081046ed4436de1dcb55669314fc9c977205"
+      "size": 267527272,
+      "sha256": "3e64b2e0b92fdea044107055faf6ea819cf39d178b97de8f9e6e16ce0b18f77c"
     },
     {
       "name": "ashfall-native-edition-alpha-0.1.0.pack.json",
       "size": 55741,
-      "sha256": "65b2d18c30752bbab25e304858361477ff9d596037369b7bd83bc7a316775414"
+      "sha256": "60a5e5eef5d9b0f62382ac219c4f1625c43f3e997b36d8a0a34f2f632ae90709"
     },
     {
       "name": "checksums.txt",
-      "size": 381,
-      "sha256": "d510911bba62bf4b4f5bbcdcf8431f6962c1e1d664c2ce6727e1f713d1d648b8"
+      "size": 294,
+      "sha256": "64212faf5a0c4a274096b2aa93e61e805582b02fdbfe2df05632071e1df724c8"
     },
     {
       "name": "echo-release.json",
       "size": 13232,
-      "sha256": "70c2a88dc94eeeb4b32b601d218c9acb0301626c0c8063068b5d60543cc616df"
+      "sha256": "05c72d2e0f5125be1796c34b952e2eda98f9f192aa24e30d75cd575dd4a0ac2c"
     }
   ],
   "zip": {
     "file": "ashfall-native-edition-0.1.0.zip",
     "entries": 49,
-    "sha256": "eb987dac02e339854610211ac372081046ed4436de1dcb55669314fc9c977205"
+    "sha256": "3e64b2e0b92fdea044107055faf6ea819cf39d178b97de8f9e6e16ce0b18f77c"
   },
   "checksumCoverage": {
     "total": 49,
@@ -52,8 +52,8 @@
   "checksumEntries": [
     {
       "file": "echo-release.json",
-      "expectedSha256": "70c2a88dc94eeeb4b32b601d218c9acb0301626c0c8063068b5d60543cc616df",
-      "actualSha256": "70c2a88dc94eeeb4b32b601d218c9acb0301626c0c8063068b5d60543cc616df",
+      "expectedSha256": "05c72d2e0f5125be1796c34b952e2eda98f9f192aa24e30d75cd575dd4a0ac2c",
+      "actualSha256": "05c72d2e0f5125be1796c34b952e2eda98f9f192aa24e30d75cd575dd4a0ac2c",
       "coveredBy": "release-asset-file",
       "matchedPath": "echo-release.json",
       "size": 13232,
@@ -61,17 +61,17 @@
     },
     {
       "file": "ashfall-native-edition-0.1.0.zip",
-      "expectedSha256": "eb987dac02e339854610211ac372081046ed4436de1dcb55669314fc9c977205",
-      "actualSha256": "eb987dac02e339854610211ac372081046ed4436de1dcb55669314fc9c977205",
+      "expectedSha256": "3e64b2e0b92fdea044107055faf6ea819cf39d178b97de8f9e6e16ce0b18f77c",
+      "actualSha256": "3e64b2e0b92fdea044107055faf6ea819cf39d178b97de8f9e6e16ce0b18f77c",
       "coveredBy": "release-asset-file",
       "matchedPath": "ashfall-native-edition-0.1.0.zip",
-      "size": 267548766,
+      "size": 267527272,
       "ok": true
     },
     {
       "file": "ashfall-native-edition-alpha-0.1.0.pack.json",
-      "expectedSha256": "65b2d18c30752bbab25e304858361477ff9d596037369b7bd83bc7a316775414",
-      "actualSha256": "65b2d18c30752bbab25e304858361477ff9d596037369b7bd83bc7a316775414",
+      "expectedSha256": "60a5e5eef5d9b0f62382ac219c4f1625c43f3e997b36d8a0a34f2f632ae90709",
+      "actualSha256": "60a5e5eef5d9b0f62382ac219c4f1625c43f3e997b36d8a0a34f2f632ae90709",
       "coveredBy": "release-asset-file",
       "matchedPath": "ashfall-native-edition-alpha-0.1.0.pack.json",
       "size": 55741,
