@@ -5,20 +5,20 @@
   "name": "Ashfall Native Edition",
   "version": "0.1.0",
   "channel": "alpha",
-  "moduleRelease": "release-index-current-module-artifacts-20260616",
-  "moduleSourceRevision": "ECHO-Release-Index modules/*.json current artifacts, 2026-06-16",
+  "moduleRelease": "modules-ashfall-runtime-parity-user-fix-20260616",
+  "moduleSourceRevision": "ECHO-Modules aff012aaa427 Ashfall runtime parity hotfix, 2026-06-16",
   "releaseTag": "v0.1.0-ashfall-native-edition",
   "sourceRepo": "knoxhack/ECHO-Ashfall-Native-Edition",
   "moduleCount": 46,
   "artifact": {
     "name": "ashfall-native-edition-0.1.0.zip",
-    "sha256": "af3ee760e4f40317f3583e697ed743c21125e9eeb07a4f259d7631dc3dff31b1",
-    "size": 268232454
+    "sha256": "1d13b2622d79db2d544a15faad56cd1ab62eadd5461fce9eda3bbde5b46abd7f",
+    "size": 268234831
   },
   "manifest": {
     "name": "ashfall-native-edition-alpha-0.1.0.pack.json",
-    "sha256": "5d25b4981c33b9caa0f210634518d75806810b8954927b31f4c12ad32e133b03",
-    "size": 59894
+    "sha256": "2c4a409645b183d2aab6c9c11b7093652fc67ce2b116fb862eabde313dd1bc29",
+    "size": 60451
   },
-  "generatedAt": "2026-06-16T02:19:41.079Z"
+  "generatedAt": "2026-06-16T07:34:29.403Z"
 }
