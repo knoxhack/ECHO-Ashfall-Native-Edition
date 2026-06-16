@@ -4,14 +4,14 @@
   "name": "Ashfall Native Edition",
   "version": "0.1.0",
   "channel": "alpha",
-  "releasedAt": "2026-06-16T00:35:24.094Z",
+  "releasedAt": "2026-06-16T01:21:32.103Z",
   "manifestAsset": "ashfall-native-edition-alpha-0.1.0.pack.json",
-  "manifestSha256": "b82224d1c29d9a58afbeb599eaa3c6cccdd882459cdea8299074befa41806c07",
-  "manifestSize": 58337,
+  "manifestSha256": "b7ae5a4ebae9a78bb210a7e5be9ca01950b1d754a93eff8fcf5fb343afb07ae7",
+  "manifestSize": 60127,
   "artifactMode": "zip",
   "artifactAsset": "ashfall-native-edition-0.1.0.zip",
-  "artifactSha256": "877daddcd888bd41f482b97862e3098584fc12d246d62f5ae3dd21f54400d907",
-  "artifactSize": 268022666,
+  "artifactSha256": "ef75f7ef6ec5427a6c0dad4417a235755e3a5173282eea064591abd88d4024a9",
+  "artifactSize": 268239185,
   "moduleRelease": "release-index-current-module-artifacts-20260616",
   "packs": [
     {
@@ -27,21 +27,21 @@
     {
       "name": "ashfall-native-edition-alpha-0.1.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "b82224d1c29d9a58afbeb599eaa3c6cccdd882459cdea8299074befa41806c07",
-      "size": 60171
+      "sha256": "b7ae5a4ebae9a78bb210a7e5be9ca01950b1d754a93eff8fcf5fb343afb07ae7",
+      "size": 60127
     },
     {
       "name": "ashfall-native-edition-0.1.0.zip",
       "role": "pack-artifact",
-      "sha256": "877daddcd888bd41f482b97862e3098584fc12d246d62f5ae3dd21f54400d907",
-      "size": 268022666
+      "sha256": "ef75f7ef6ec5427a6c0dad4417a235755e3a5173282eea064591abd88d4024a9",
+      "size": 268239185
     },
     {
       "name": "echoadaptercore-1.0.0.echo-addon",
       "role": "pack-file",
       "path": "addons/echoadaptercore-1.0.0.echo-addon",
-      "sha256": "6419877b2fdf5c9396408c71fb2a013301884416c8d3131209b8e5a03dabde7a",
-      "size": 827788
+      "sha256": "909cc422566f138e65ad927e33775cff20f3caef963181ebd7c3716f711cfbf9",
+      "size": 841135
     },
     {
       "name": "echoagriculturereclamation-1.0.0.echo-addon",
@@ -61,8 +61,8 @@
       "name": "echoashfallprotocol-1.0.0.echo-addon",
       "role": "pack-file",
       "path": "addons/echoashfallprotocol-1.0.0.echo-addon",
-      "sha256": "3577439daaf1660821987bde50e65a2032d1f3290d06e7d620293af5a6c28231",
-      "size": 58672178
+      "sha256": "6dd8d325cd54744c993104288f59ff6f80e33644487e53da73397cd4252175b8",
+      "size": 58675321
     },
     {
       "name": "echoblackboxprotocol-1.0.0.echo-addon",
