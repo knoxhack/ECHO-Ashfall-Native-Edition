@@ -61,9 +61,9 @@
       "path": "addons/echoashfallprotocol-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "d47f5c52314d6ea50b8df2f1a6c2450d7554d10945af655ef646514add1b70ea",
-      "size": 58676312,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-ashfall-renderer-hotfix-20260617/echoashfallprotocol-1.0.0.echo-addon"
+      "sha256": "170e927ccb2c5bb47f6952c613a884cba30d1de49e2634f4c7b6008ee0d7d4cd",
+      "size": 58680130,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-ashfall-neoforge-native-route-bridge-20260617/echoashfallprotocol-1.0.0.echo-addon"
     },
     {
       "id": "echoblackboxprotocol",
@@ -791,9 +791,9 @@
       "path": "addons/echoashfallprotocol-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "d47f5c52314d6ea50b8df2f1a6c2450d7554d10945af655ef646514add1b70ea",
-      "size": 58676312,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-ashfall-renderer-hotfix-20260617/echoashfallprotocol-1.0.0.echo-addon"
+      "sha256": "170e927ccb2c5bb47f6952c613a884cba30d1de49e2634f4c7b6008ee0d7d4cd",
+      "size": 58680130,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-ashfall-neoforge-native-route-bridge-20260617/echoashfallprotocol-1.0.0.echo-addon"
     },
     {
       "id": "echoblackboxprotocol",
@@ -1393,12 +1393,12 @@
   "runtimeTarget": "echo_native",
   "id": "ashfall-native-edition",
   "artifactUrl": "https://github.com/knoxhack/ECHO-Ashfall-Native-Edition/releases/download/v0.1.0-ashfall-native-edition/ashfall-native-edition-0.1.0.zip",
-  "updatedAt": "2026-06-17T09:29:22.188Z",
+  "updatedAt": "2026-06-17T21:35:37.505Z",
   "generatedBy": "scripts/rebuild-official-modpack-assets",
   "validation": "warning",
   "manifestAsset": "ashfall-native-edition-alpha-0.1.0.pack.json",
-  "moduleRelease": "modules-ashfall-renderer-hotfix-20260617",
-  "moduleSourceRevision": "ECHO-Modules@ea649f2ec27d4fd91f5aff08fa08d0231f9f0105",
-  "artifactSha256": "9c3a75688d76ad98b2c01d93a47ccbfc62f332ffe8c25191f4d8de35a48a6743",
-  "artifactSize": 268244063
+  "moduleRelease": "modules-mixed-canonical-and-ashfall-hotfixes-20260617",
+  "moduleSourceRevision": "ECHO-Release-Index modules/*.json with ECHO-Modules@d499d0a554e741d58e74183a23a7e360f22721db",
+  "artifactSha256": "ed9b191a877cb8c624e98fcc28d11516a3b3f3a0dc80243cc5f2f7c402a8b43f",
+  "artifactSize": 268247604
 }

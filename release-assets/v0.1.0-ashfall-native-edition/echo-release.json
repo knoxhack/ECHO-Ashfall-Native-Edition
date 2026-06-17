@@ -4,15 +4,15 @@
   "name": "Ashfall Native Edition",
   "version": "0.1.0",
   "channel": "alpha",
-  "releasedAt": "2026-06-17T09:29:31.645Z",
+  "releasedAt": "2026-06-17T21:35:46.550Z",
   "manifestAsset": "ashfall-native-edition-alpha-0.1.0.pack.json",
-  "manifestSha256": "de2e34e83042ee5dac2730b70dec4567f5d38bdcf7a9bad68ec551601614ddc8",
-  "manifestSize": 58901,
+  "manifestSha256": "cabd929cb7f21f990c47c33c55b266e252859c843b3904060d9cb576d7b549ee",
+  "manifestSize": 58979,
   "artifactMode": "zip",
   "artifactAsset": "ashfall-native-edition-0.1.0.zip",
-  "artifactSha256": "9c3a75688d76ad98b2c01d93a47ccbfc62f332ffe8c25191f4d8de35a48a6743",
-  "artifactSize": 268244063,
-  "moduleRelease": "modules-ashfall-renderer-hotfix-20260617",
+  "artifactSha256": "ed9b191a877cb8c624e98fcc28d11516a3b3f3a0dc80243cc5f2f7c402a8b43f",
+  "artifactSize": 268247604,
+  "moduleRelease": "modules-mixed-canonical-and-ashfall-hotfixes-20260617",
   "packs": [
     {
       "pack": "ashfall-native-edition",
@@ -27,14 +27,14 @@
     {
       "name": "ashfall-native-edition-alpha-0.1.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "de2e34e83042ee5dac2730b70dec4567f5d38bdcf7a9bad68ec551601614ddc8",
-      "size": 58901
+      "sha256": "cabd929cb7f21f990c47c33c55b266e252859c843b3904060d9cb576d7b549ee",
+      "size": 58979
     },
     {
       "name": "ashfall-native-edition-0.1.0.zip",
       "role": "pack-artifact",
-      "sha256": "9c3a75688d76ad98b2c01d93a47ccbfc62f332ffe8c25191f4d8de35a48a6743",
-      "size": 268244063
+      "sha256": "ed9b191a877cb8c624e98fcc28d11516a3b3f3a0dc80243cc5f2f7c402a8b43f",
+      "size": 268247604
     },
     {
       "name": "echoadaptercore-1.0.0.echo-addon",
@@ -61,8 +61,8 @@
       "name": "echoashfallprotocol-1.0.0.echo-addon",
       "role": "pack-file",
       "path": "addons/echoashfallprotocol-1.0.0.echo-addon",
-      "sha256": "d47f5c52314d6ea50b8df2f1a6c2450d7554d10945af655ef646514add1b70ea",
-      "size": 58676312
+      "sha256": "170e927ccb2c5bb47f6952c613a884cba30d1de49e2634f4c7b6008ee0d7d4cd",
+      "size": 58680130
     },
     {
       "name": "echoblackboxprotocol-1.0.0.echo-addon",
@@ -363,5 +363,5 @@
     "Ashfall Native Edition refreshed against the current Release Index module catalog.",
     "Pack module files, sidecar metadata, and archive checksums are pinned to current GitHub module artifacts."
   ],
-  "moduleSourceRevision": "ECHO-Modules@ea649f2ec27d4fd91f5aff08fa08d0231f9f0105"
+  "moduleSourceRevision": "ECHO-Release-Index modules/*.json with ECHO-Modules@d499d0a554e741d58e74183a23a7e360f22721db"
 }
