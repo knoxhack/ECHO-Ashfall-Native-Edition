@@ -7,7 +7,7 @@
   "channel": "beta",
   "moduleRelease": "modules-beta-full-20260620",
   "moduleSourceRevision": "ECHO-Modules afd206900713 local Content Graph + AdapterCore recovery artifacts, 2026-06-20",
-  "releaseTag": "v0.1.1-ashfall-native-edition-beta.2",
+  "releaseTag": "v0.1.1-ashfall-native-edition-beta.3",
   "sourceRepo": "knoxhack/ECHO-Ashfall-Native-Edition",
   "moduleCount": 46,
   "artifact": {
@@ -20,5 +20,5 @@
     "sha256": "6df11795528b487f97a0c490f41e6ce911c6dac2219af62edbd53bc4580d4687",
     "size": 58815
   },
-  "generatedAt": "2026-06-20T21:14:40.236Z"
+  "generatedAt": "2026-06-20T21:40:08.101Z"
 }
