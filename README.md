@@ -30,12 +30,11 @@ Pack manifests, pack archives, per-file assets, and native edition release notes
 
 ## Release Assets
 
-The current public alpha prerelease payload is tracked under `release-assets/v0.1.0-ashfall-native-edition/`.
+- GitHub prerelease tag: `v0.1.1-ashfall-native-edition-beta`
+- Checked-in payloads: `release-assets/v0.1.1-ashfall-native-edition-beta/`
+- Uploaded assets: `ashfall-native-edition-0.1.1.zip`, `ashfall-native-edition-beta-0.1.1.pack.json`, `checksums.txt`, `echo-release.json`, `release-audit.json`
 
-- `ashfall-native-edition-0.1.0.zip` is stored with Git LFS.
-- `ashfall-native-edition-alpha-0.1.0.pack.json`, `echo-release.json`, and `checksums.txt` are checked in beside it.
-- `release-audit.json` records the downloaded GitHub release asset hashes and any checksum/release asset mismatch.
-
+These files mirror the live GitHub prerelease assets and the Release Index beta catalog.
 ## Docs Index
 
 - [docs/install.md](docs/install.md)
