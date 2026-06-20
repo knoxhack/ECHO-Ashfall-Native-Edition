@@ -6,19 +6,19 @@
   "version": "0.1.1",
   "channel": "beta",
   "moduleRelease": "modules-beta-full-20260620",
-  "moduleSourceRevision": "ECHO-Modules modules-beta-full-20260620 (2a1c2ec8), 2026-06-20",
+  "moduleSourceRevision": "ECHO-Modules afd206900713 local Content Graph + AdapterCore recovery artifacts, 2026-06-20",
   "releaseTag": "v0.1.1-ashfall-native-edition-beta",
   "sourceRepo": "knoxhack/ECHO-Ashfall-Native-Edition",
-  "moduleCount": 47,
+  "moduleCount": 46,
   "artifact": {
     "name": "ashfall-native-edition-0.1.1.zip",
-    "sha256": "aa7fff6bb7a125008a7bc1ff3319885bd570600e5c999b7e41636f4f1df7c7b5",
-    "size": 280034323
+    "sha256": "f3b8f1d82361b1f79b50f3a648603be437e1de63d68edfc9a7b1e16e4259a073",
+    "size": 270182663
   },
   "manifest": {
     "name": "ashfall-native-edition-beta-0.1.1.pack.json",
-    "sha256": "27489cfdead58417dcf045f4e85a0c802bab9cbef9f50699438a1898210e07b9",
-    "size": 59884
+    "sha256": "162b98c92c6071a5ac7981e5d7bd64869296a934c5fb9752e3e3e2ec7f455749",
+    "size": 58813
   },
-  "generatedAt": "2026-06-20T04:41:13.906Z"
+  "generatedAt": "2026-06-20T18:28:21.610Z"
 }

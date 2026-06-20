@@ -8,8 +8,8 @@
   "runtimeTarget": "echo_native",
   "moduleArtifactFamily": "echo-addon",
   "moduleRelease": "modules-beta-full-20260620",
-  "moduleCount": 47,
-  "generatedAt": "2026-06-20T04:41:03.468Z",
+  "moduleCount": 46,
+  "generatedAt": "2026-06-20T18:28:08.685Z",
   "sourceRepo": "knoxhack/ECHO-Ashfall-Native-Edition",
   "releaseTag": "v0.1.1-ashfall-native-edition-beta"
 }

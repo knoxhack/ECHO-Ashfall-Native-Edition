@@ -19,8 +19,8 @@
       "path": "addons/echoadaptercore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "23d664f765328180dfd6a3e8d902088076bd7db0b701be1eef339a3e24afc15c",
-      "size": 847600,
+      "sha256": "9b08297d0be7b8cce45d5df94aab9bd32fad30a5ef42a9ec31d4b43d1cb665bf",
+      "size": 847728,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoadaptercore-1.0.0.echo-addon"
     },
     {
@@ -33,8 +33,8 @@
       "path": "addons/echoagriculturereclamation-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "792fe8be38ebe67d02d0fa291eb7be16abfa3fcefed56d9f37fe9367185dd666",
-      "size": 405502,
+      "sha256": "faff066120419925de67706c80bfb2285736f298f8c2eac9db8d20b3baf34163",
+      "size": 410556,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoagriculturereclamation-1.0.0.echo-addon"
     },
     {
@@ -47,8 +47,8 @@
       "path": "addons/echoarmory-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "d4db99a7f3604c05751209f0fdfef2e9144a9ed2867b7e0a605de7ce75fcf1bc",
-      "size": 10387501,
+      "sha256": "924aae0679882b15d356368ecd72b0c9b6d50d309b304ed78b0f9233aafd1d58",
+      "size": 10389796,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoarmory-1.0.0.echo-addon"
     },
     {
@@ -61,8 +61,8 @@
       "path": "addons/echoashfallprotocol-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "0995fc6548538be77207303efd3880363013a8afad216d2b86fd8d7d633bfbf4",
-      "size": 60174346,
+      "sha256": "283b19ab7e7b3ea177d99fc0b48a26f9f177eb70fffa49caadccc5316135ed23",
+      "size": 60331204,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoashfallprotocol-1.0.0.echo-addon"
     },
     {
@@ -75,8 +75,8 @@
       "path": "addons/echoblackboxprotocol-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "33cc28f048c3677c854dbe542a5a4d50dce89694dc159a621dbe97de7ac4c71a",
-      "size": 10795320,
+      "sha256": "c968b50560ee504b3fbc1da8d8c02c4d75c849af86d58770c742b3fba0da0389",
+      "size": 10801795,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoblackboxprotocol-1.0.0.echo-addon"
     },
     {
@@ -89,8 +89,8 @@
       "path": "addons/echoblockworks-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "f596a2182cbb28df138e140b70ed476950752dbaff8f8478ab6a06d7d8f49e07",
-      "size": 837485,
+      "sha256": "5d2461ed51a326751efc0da930351e5987bb5df0ff33fc3f88c310ce3efdf9a8",
+      "size": 863365,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoblockworks-1.0.0.echo-addon"
     },
     {
@@ -103,8 +103,8 @@
       "path": "addons/echocommonloot-0.1.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "f4828426a74511dddfb260e7082ca7f7eda8300d9c6187df5b9bef8a3b3fc9a5",
-      "size": 15400,
+      "sha256": "046abca4754a59a5eac5fd943c1e6209cf1018b4463ad704a173e734421a0dca",
+      "size": 15735,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echocommonloot-0.1.0.echo-addon"
     },
     {
@@ -117,8 +117,8 @@
       "path": "addons/echocontentcore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "8fc78d70c659cec20864d4cf447674448e5932ad3b56414158759a4f6caae90b",
-      "size": 39443,
+      "sha256": "d820d48c1e79c6333b75f84a74cf3f4dc7dbadefe9707ffa6359075f824484bc",
+      "size": 39726,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echocontentcore-1.0.0.echo-addon"
     },
     {
@@ -131,8 +131,8 @@
       "path": "addons/echoconvoyprotocol-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "dd5f492b76ccd9f2888d21f3c79110ea5d83b00395706dc8e7b8fdfa49311ab6",
-      "size": 775252,
+      "sha256": "bbc55a357e8de6ae31ca9e04d093b6bf69f379009085209e479b8de48a64d6ce",
+      "size": 784727,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoconvoyprotocol-1.0.0.echo-addon"
     },
     {
@@ -145,8 +145,8 @@
       "path": "addons/echocore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "68b6107082a2677fc73f645bd4b33c7117dfb90f280879b8240d633193b5b879",
-      "size": 341859,
+      "sha256": "ec74fba50a047efa87710433ff7c74f925b7912aacf8ac43e41294ac8eedf9d8",
+      "size": 341861,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echocore-1.0.0.echo-addon"
     },
     {
@@ -159,8 +159,8 @@
       "path": "addons/echocreatureroles-0.1.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "91914565c00c8da4e98fdd2dfdfef4f8847ace471bf7a5f1c52cb1619a6dcfbd",
-      "size": 14995,
+      "sha256": "359181c408a7acfb40876cd1b8caeffeef229db5e9ad3d40f6580564c49db367",
+      "size": 15181,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echocreatureroles-0.1.0.echo-addon"
     },
     {
@@ -173,8 +173,8 @@
       "path": "addons/echodatacore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "9e8a8acb8d7aa145fe6efbf3cfb3c7b3cbf0742a73d7874a4875b0dcea9270e4",
-      "size": 109376,
+      "sha256": "15322601a618f62e2118f0835aed3e75d1d16f04243901798f4406ec7601427b",
+      "size": 109524,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echodatacore-1.0.0.echo-addon"
     },
     {
@@ -187,8 +187,8 @@
       "path": "addons/echofoundationcore-0.1.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "bcdde80f9bac1aab6f3b5ee89c4a92abcd63fb55ecfc3e7e5abd0a187791b6d2",
-      "size": 18479,
+      "sha256": "b305dc810719a56e24bdfdcc9bdf2853af5796617da3150e5461bbf83afa5fb4",
+      "size": 18608,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echofoundationcore-0.1.0.echo-addon"
     },
     {
@@ -201,8 +201,8 @@
       "path": "addons/echoholomap-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "caaeafe73abbd94c5a0f33c8c4c084cc3c8e08fe1889cfd74e9436b598163e10",
-      "size": 1478585,
+      "sha256": "0a99fcb627dcb3a6913ca5d4f32bc8a0f4d8625e00e80f81e6d0413ad7ed0d73",
+      "size": 1479880,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoholomap-1.0.0.echo-addon"
     },
     {
@@ -215,8 +215,8 @@
       "path": "addons/echohudcore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "6d17a27390490e873446753afdda27f1ed364a02c367cc5da24683297fe3baa1",
-      "size": 54179,
+      "sha256": "f2aaa0558699d8f3bd0fc6d4917aff64f754abb30a04bc681e945924b971bc04",
+      "size": 55065,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echohudcore-1.0.0.echo-addon"
     },
     {
@@ -229,8 +229,8 @@
       "path": "addons/echoindex-1.0.1.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "98f960bd5ffb479d2013e446d9bb4841eda744cccc83185a2d37931909427fb0",
-      "size": 588637,
+      "sha256": "625a6e14d68c8815e1c46d8d05ab66e244b3f349c779bf47c1b44edaa3f8196d",
+      "size": 589798,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoindex-1.0.1.echo-addon"
     },
     {
@@ -243,8 +243,8 @@
       "path": "addons/echoindustrialnexus-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "c42fc7bfbc4c323306cad01367ee13d9acc7724ae92aba77471e65edd1b9440d",
-      "size": 5040146,
+      "sha256": "6180bd3cfa9b9a384b4c6d978614a584177cf5dc310c1480ced1a0758e7edf72",
+      "size": 5054541,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoindustrialnexus-1.0.0.echo-addon"
     },
     {
@@ -257,8 +257,8 @@
       "path": "addons/echolens-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "311b1dd288781baf3ad42fecb98a37e30991fe8f96e9b8fda0c8337afb355cdc",
-      "size": 215270,
+      "sha256": "30340d8daf52d4a2f7fb0b8aae67c72ac34c8151294e91a635628a53a5c55148",
+      "size": 216597,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echolens-1.0.0.echo-addon"
     },
     {
@@ -271,8 +271,8 @@
       "path": "addons/echologisticsnetwork-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "b339c13cd2143000ec73ce961460401010a06942bbc7a0f046210ed2916a90a9",
-      "size": 3653832,
+      "sha256": "0bd8bff4ea174a8b53ac9d4d0fd28b412902e6aa588638d8fc505d2ce5989274",
+      "size": 3655761,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echologisticsnetwork-1.0.0.echo-addon"
     },
     {
@@ -285,8 +285,8 @@
       "path": "addons/echomaterialcore-0.1.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "104d03d3ffab358c46320016a0e390673df5436fa2ac521a876606b588c4f2a8",
-      "size": 29714,
+      "sha256": "450d16d89aabcf21c58869c9a31d871cce7c13078972c7e503fc1575fdfa089d",
+      "size": 30360,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echomaterialcore-0.1.0.echo-addon"
     },
     {
@@ -299,8 +299,8 @@
       "path": "addons/echomissioncore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "187b2942b1ab111923ef113431c746b3e9ed23ec8036e5260711248fdc9842cc",
-      "size": 124450,
+      "sha256": "1b96778b5edd0e8a0c06dccb951d866281121a923ef49f5ef08ea70725d9ad3a",
+      "size": 124803,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echomissioncore-1.0.0.echo-addon"
     },
     {
@@ -313,8 +313,8 @@
       "path": "addons/echomultiblockcore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "2a19a05b8b87cfc0b7333b3a99c63dc141196526b7ee8a08bd153ca1b7fd243e",
-      "size": 12630273,
+      "sha256": "a8f3a1819e3e7d53c20ac8daa0d2e4a2055df57edc2fb8fe89952832b17537e8",
+      "size": 12632683,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echomultiblockcore-1.0.0.echo-addon"
     },
     {
@@ -327,8 +327,8 @@
       "path": "addons/echonetcore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "6bb7b749d5dfd5ae7836cf51262f2b7a19b0c6dadbc13d65056c9444d6f4b454",
-      "size": 76247,
+      "sha256": "5c55df34f2a092e71909eb0329492727623d85afe72608fd1e8ecac176c83c40",
+      "size": 76344,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echonetcore-1.0.0.echo-addon"
     },
     {
@@ -341,8 +341,8 @@
       "path": "addons/echonexusprotocol-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "56fbc5cb57d873264a9c40fb9cc50bc975e68f516e12decf669605a92a611019",
-      "size": 13806236,
+      "sha256": "44eb7453855e4df1016560746d57eafd88eaf7652d313ffa44e161064e7a8c73",
+      "size": 13819547,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echonexusprotocol-1.0.0.echo-addon"
     },
     {
@@ -355,8 +355,8 @@
       "path": "addons/echoorbitalremnants-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "b6018143828f1d30a15694f2f5eccc791ba4e3385acb05ee1374222a2175fb3b",
-      "size": 14338003,
+      "sha256": "8eb50fc02b5d76b2c2e04e4e7ec1a157fe5233e77c1cc1684ba173fc1c1f3e06",
+      "size": 14347496,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoorbitalremnants-1.0.0.echo-addon"
     },
     {
@@ -369,23 +369,9 @@
       "path": "addons/echoplatformcore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "f68017cb526d6c2308584fa13890edb92fb37cd11272630a2313eca1676a6ce1",
-      "size": 50645,
+      "sha256": "822afcca6a5947d6470b01ff0f969a779ac4bd28bd5456ca9fb66b02ad5515ea",
+      "size": 50715,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoplatformcore-1.0.0.echo-addon"
-    },
-    {
-      "id": "echopresencelink",
-      "moduleId": "echopresencelink",
-      "version": "1.0.0",
-      "artifactFamily": "echo-addon",
-      "assetName": "echopresencelink-1.0.0.echo-addon",
-      "artifactName": "echopresencelink-1.0.0.echo-addon",
-      "path": "addons/echopresencelink-1.0.0.echo-addon",
-      "required": true,
-      "side": "both",
-      "sha256": "c04dfd137c8807ad3c7d1d49accfca1a6d0f3138fe7798e0b946cb6e8979e2a4",
-      "size": 10146357,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echopresencelink-1.0.0.echo-addon"
     },
     {
       "id": "echopowergrid",
@@ -397,8 +383,8 @@
       "path": "addons/echopowergrid-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "2acacdf58f5d546c2389710525068cbde629463fc4a97523d68ec28c3160c396",
-      "size": 7159979,
+      "sha256": "08d9cef948ae496e25f606221257bfc78d78cf9d40236e7501dc892bc42a68e1",
+      "size": 7163228,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echopowergrid-1.0.0.echo-addon"
     },
     {
@@ -411,8 +397,8 @@
       "path": "addons/echorecovery-1.3.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "486e54ba3193f0132843e01a0617060be5adc232296d23858dda49a4969fce7d",
-      "size": 2678143,
+      "sha256": "49e2707c6ce6faf2f86bc79231c67702f6668c0f02162621d131bfa66824e04c",
+      "size": 2680620,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echorecovery-1.3.0.echo-addon"
     },
     {
@@ -425,8 +411,8 @@
       "path": "addons/echorelictech-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "cc6c7c7ef7186474e6fe0d1e2e41642d59f465fc1a3457b802ca5a395ead9dd4",
-      "size": 7687151,
+      "sha256": "1957a2308409e24e8aa7d56b29151734faf1a98eaf071b965b8014b266af520b",
+      "size": 7691201,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echorelictech-1.0.0.echo-addon"
     },
     {
@@ -439,8 +425,8 @@
       "path": "addons/echorendercore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "abfd4d17e9ce4be4f6e0ca0f244dcf4e66e7ccb3129416c25d678e6febc6ffde",
-      "size": 484075,
+      "sha256": "e3e299a77d62661b3105ad1d3545a3ffba926366d84ca5cafdbc9c543d9b0199",
+      "size": 484333,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echorendercore-1.0.0.echo-addon"
     },
     {
@@ -453,8 +439,8 @@
       "path": "addons/echoruntimeguard-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "7db1c93687c59e6b8785b1d250e8b1b35279e564931c9ff1a2dd0e0ac1bb10a3",
-      "size": 128122,
+      "sha256": "d1f95135b7801c97da0ba04ace6c99f1368ce992cd59ae3829fefffef14bea37",
+      "size": 128591,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoruntimeguard-1.0.0.echo-addon"
     },
     {
@@ -467,8 +453,8 @@
       "path": "addons/echoschemacore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "1c461fcd922fba9b0b11d7b505ddb33782d0ec1f54d2aa755ba05bcd79c009cb",
-      "size": 36674,
+      "sha256": "83d7af64a85d172eac9a721048fb0d820f9e3c460b6a26526be5dbde14a48a53",
+      "size": 36804,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoschemacore-1.0.0.echo-addon"
     },
     {
@@ -481,8 +467,8 @@
       "path": "addons/echoscreencore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "820621fe58ba8fcecc4128a9356588ee92fe233a11c67c0d896d7f9bbdad4ecf",
-      "size": 374330,
+      "sha256": "db3a07cea0c67a59402253491736121425cc1dc27166059cd0c7f33279569dc1",
+      "size": 378477,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoscreencore-1.0.0.echo-addon"
     },
     {
@@ -495,8 +481,8 @@
       "path": "addons/echosoundcore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "37aeb84ff29529aefd230b5461f7c3aeda27f087435abe76ec713db38d0f8924",
-      "size": 11087314,
+      "sha256": "c63a29ca542f563b8e3f7eedd25eae9a370495478186a80920e34ee3b8a0229c",
+      "size": 11098335,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echosoundcore-1.0.0.echo-addon"
     },
     {
@@ -509,8 +495,8 @@
       "path": "addons/echostationcore-0.1.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "06d832b949e0ef861ea854ec2568ce73b142f710d53871307bac53690aa1e536",
-      "size": 19133,
+      "sha256": "102c5579e7179996d8bc59edb306e180ec033615bec7ca6ab6b4f88b91958176",
+      "size": 19649,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echostationcore-0.1.0.echo-addon"
     },
     {
@@ -523,8 +509,8 @@
       "path": "addons/echostationfall-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "d1495c6b2c2ce5828b3ad2b48b48af10cc693e7bc41e0b7fcef89b9e7962f805",
-      "size": 3892421,
+      "sha256": "3f4fdc38310dbda172a5b92cf521b4a434110606e3f488ea046f682fc0491b10",
+      "size": 3895468,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echostationfall-1.0.0.echo-addon"
     },
     {
@@ -537,8 +523,8 @@
       "path": "addons/echoterminal-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "cd898e6485337c7b9516ccfe552c65cfe51eef53e5a0ab15c60933d62f3e4062",
-      "size": 22479731,
+      "sha256": "675cc33290e122eb88941879bfaf3b6c7cc18cc6bd2600d5d15dfa4922312da2",
+      "size": 22481412,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoterminal-1.0.0.echo-addon"
     },
     {
@@ -551,8 +537,8 @@
       "path": "addons/echothemecore-1.3.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "343effcaee56c8dbf68bfb63660226176d7c2b30768795fab6198a0243401104",
-      "size": 69535269,
+      "sha256": "fdb109d5e8bc13ad6ffcb9011877484e6f17b173eb34750706626278256b7331",
+      "size": 69536055,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echothemecore-1.3.0.echo-addon"
     },
     {
@@ -565,8 +551,8 @@
       "path": "addons/echotoolcore-0.1.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "e45abaf241aff5cc00b22af6b1d9c2cd4b1071213022a3e0f2af7375c810fd58",
-      "size": 18689,
+      "sha256": "c027425b048e87121d0ecd2c59239171ba2899d0a5f30575c26a920b3c068ea3",
+      "size": 19189,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echotoolcore-0.1.0.echo-addon"
     },
     {
@@ -579,8 +565,8 @@
       "path": "addons/echotutorialcore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "2310bc36cc141fbef8167f15c3272f731751f90cdb7031bf2d9682cda7acff05",
-      "size": 206575,
+      "sha256": "8b9281b266ba196a8f283e351a4f1f149ceacc9760e82358687e70b983880a69",
+      "size": 207257,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echotutorialcore-1.0.0.echo-addon"
     },
     {
@@ -593,8 +579,8 @@
       "path": "addons/echovalidationcore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "d04f80b76769d34d7af8f0003348b15fb045351607cd2f22881135830b27add5",
-      "size": 47445,
+      "sha256": "15f69c3604326e57ae08066b6409bb792e5313d35ba496fa864ebda9f6a85d4d",
+      "size": 47615,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echovalidationcore-1.0.0.echo-addon"
     },
     {
@@ -607,8 +593,8 @@
       "path": "addons/echoweathercore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "1355fdfb08860345509127f69be8359743dc6e46467d75fea33526b306c57214",
-      "size": 226037,
+      "sha256": "558358fedbe86de6caca8f26326f673b68f26a7fa490ee63b172b1ed652d9580",
+      "size": 229521,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoweathercore-1.0.0.echo-addon"
     },
     {
@@ -621,8 +607,8 @@
       "path": "addons/echowiki-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "c76a00c94d65b80df394e45b52dc33a3938b58221509184a9847abd588adb1ae",
-      "size": 4669301,
+      "sha256": "aa499f01a8bb7facde4120b5452cbbc95763ba371325da1f393ef1dde54b1913",
+      "size": 4670401,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echowiki-1.0.0.echo-addon"
     },
     {
@@ -635,8 +621,8 @@
       "path": "addons/echoworldcore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "c29f67ee861d9f5f18609b8365ea51a94ba6f1cba85fb7c6379803d359cea2b8",
-      "size": 174428,
+      "sha256": "22845a69e3c475871b8c1d0975b7f0a748c92a0ef6c7c9764e5952eefdc57071",
+      "size": 175997,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoworldcore-1.0.0.echo-addon"
     },
     {
@@ -649,8 +635,8 @@
       "path": "addons/echoworldstarter-0.1.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "80c371ebd22b025f60f0a793b1b7844fa4987b7d834a660565570bf27c3d2447",
-      "size": 19830,
+      "sha256": "4aecb7a417f1cf07da742461eb74d886724dfa7a1edb07e1c1780cbfe479c664",
+      "size": 20427,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoworldstarter-0.1.0.echo-addon"
     },
     {
@@ -663,8 +649,8 @@
       "path": "addons/echosignalos-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "132ec2e1daac9af57f0d442c1564c4764e6790cf723e759c017ae1261337d5e0",
-      "size": 1834635,
+      "sha256": "4281a30fdbc51d2a919885eb984f9aed6779192f870a3a040910717136dc804b",
+      "size": 1836502,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echosignalos-1.0.0.echo-addon"
     }
   ],
@@ -731,7 +717,6 @@
     "echonexusprotocol",
     "echoorbitalremnants",
     "echoplatformcore",
-    "echopresencelink",
     "echopowergrid",
     "echorecovery",
     "echorelictech",
@@ -764,8 +749,8 @@
       "path": "addons/echoadaptercore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "23d664f765328180dfd6a3e8d902088076bd7db0b701be1eef339a3e24afc15c",
-      "size": 847600,
+      "sha256": "9b08297d0be7b8cce45d5df94aab9bd32fad30a5ef42a9ec31d4b43d1cb665bf",
+      "size": 847728,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoadaptercore-1.0.0.echo-addon"
     },
     {
@@ -778,8 +763,8 @@
       "path": "addons/echoagriculturereclamation-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "792fe8be38ebe67d02d0fa291eb7be16abfa3fcefed56d9f37fe9367185dd666",
-      "size": 405502,
+      "sha256": "faff066120419925de67706c80bfb2285736f298f8c2eac9db8d20b3baf34163",
+      "size": 410556,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoagriculturereclamation-1.0.0.echo-addon"
     },
     {
@@ -792,8 +777,8 @@
       "path": "addons/echoarmory-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "d4db99a7f3604c05751209f0fdfef2e9144a9ed2867b7e0a605de7ce75fcf1bc",
-      "size": 10387501,
+      "sha256": "924aae0679882b15d356368ecd72b0c9b6d50d309b304ed78b0f9233aafd1d58",
+      "size": 10389796,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoarmory-1.0.0.echo-addon"
     },
     {
@@ -806,8 +791,8 @@
       "path": "addons/echoashfallprotocol-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "0995fc6548538be77207303efd3880363013a8afad216d2b86fd8d7d633bfbf4",
-      "size": 60174346,
+      "sha256": "283b19ab7e7b3ea177d99fc0b48a26f9f177eb70fffa49caadccc5316135ed23",
+      "size": 60331204,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoashfallprotocol-1.0.0.echo-addon"
     },
     {
@@ -820,8 +805,8 @@
       "path": "addons/echoblackboxprotocol-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "33cc28f048c3677c854dbe542a5a4d50dce89694dc159a621dbe97de7ac4c71a",
-      "size": 10795320,
+      "sha256": "c968b50560ee504b3fbc1da8d8c02c4d75c849af86d58770c742b3fba0da0389",
+      "size": 10801795,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoblackboxprotocol-1.0.0.echo-addon"
     },
     {
@@ -834,8 +819,8 @@
       "path": "addons/echoblockworks-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "f596a2182cbb28df138e140b70ed476950752dbaff8f8478ab6a06d7d8f49e07",
-      "size": 837485,
+      "sha256": "5d2461ed51a326751efc0da930351e5987bb5df0ff33fc3f88c310ce3efdf9a8",
+      "size": 863365,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoblockworks-1.0.0.echo-addon"
     },
     {
@@ -848,8 +833,8 @@
       "path": "addons/echocommonloot-0.1.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "f4828426a74511dddfb260e7082ca7f7eda8300d9c6187df5b9bef8a3b3fc9a5",
-      "size": 15400,
+      "sha256": "046abca4754a59a5eac5fd943c1e6209cf1018b4463ad704a173e734421a0dca",
+      "size": 15735,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echocommonloot-0.1.0.echo-addon"
     },
     {
@@ -862,8 +847,8 @@
       "path": "addons/echocontentcore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "8fc78d70c659cec20864d4cf447674448e5932ad3b56414158759a4f6caae90b",
-      "size": 39443,
+      "sha256": "d820d48c1e79c6333b75f84a74cf3f4dc7dbadefe9707ffa6359075f824484bc",
+      "size": 39726,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echocontentcore-1.0.0.echo-addon"
     },
     {
@@ -876,8 +861,8 @@
       "path": "addons/echoconvoyprotocol-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "dd5f492b76ccd9f2888d21f3c79110ea5d83b00395706dc8e7b8fdfa49311ab6",
-      "size": 775252,
+      "sha256": "bbc55a357e8de6ae31ca9e04d093b6bf69f379009085209e479b8de48a64d6ce",
+      "size": 784727,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoconvoyprotocol-1.0.0.echo-addon"
     },
     {
@@ -890,8 +875,8 @@
       "path": "addons/echocore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "68b6107082a2677fc73f645bd4b33c7117dfb90f280879b8240d633193b5b879",
-      "size": 341859,
+      "sha256": "ec74fba50a047efa87710433ff7c74f925b7912aacf8ac43e41294ac8eedf9d8",
+      "size": 341861,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echocore-1.0.0.echo-addon"
     },
     {
@@ -904,8 +889,8 @@
       "path": "addons/echocreatureroles-0.1.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "91914565c00c8da4e98fdd2dfdfef4f8847ace471bf7a5f1c52cb1619a6dcfbd",
-      "size": 14995,
+      "sha256": "359181c408a7acfb40876cd1b8caeffeef229db5e9ad3d40f6580564c49db367",
+      "size": 15181,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echocreatureroles-0.1.0.echo-addon"
     },
     {
@@ -918,8 +903,8 @@
       "path": "addons/echodatacore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "9e8a8acb8d7aa145fe6efbf3cfb3c7b3cbf0742a73d7874a4875b0dcea9270e4",
-      "size": 109376,
+      "sha256": "15322601a618f62e2118f0835aed3e75d1d16f04243901798f4406ec7601427b",
+      "size": 109524,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echodatacore-1.0.0.echo-addon"
     },
     {
@@ -932,8 +917,8 @@
       "path": "addons/echofoundationcore-0.1.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "bcdde80f9bac1aab6f3b5ee89c4a92abcd63fb55ecfc3e7e5abd0a187791b6d2",
-      "size": 18479,
+      "sha256": "b305dc810719a56e24bdfdcc9bdf2853af5796617da3150e5461bbf83afa5fb4",
+      "size": 18608,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echofoundationcore-0.1.0.echo-addon"
     },
     {
@@ -946,8 +931,8 @@
       "path": "addons/echoholomap-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "caaeafe73abbd94c5a0f33c8c4c084cc3c8e08fe1889cfd74e9436b598163e10",
-      "size": 1478585,
+      "sha256": "0a99fcb627dcb3a6913ca5d4f32bc8a0f4d8625e00e80f81e6d0413ad7ed0d73",
+      "size": 1479880,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoholomap-1.0.0.echo-addon"
     },
     {
@@ -960,8 +945,8 @@
       "path": "addons/echohudcore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "6d17a27390490e873446753afdda27f1ed364a02c367cc5da24683297fe3baa1",
-      "size": 54179,
+      "sha256": "f2aaa0558699d8f3bd0fc6d4917aff64f754abb30a04bc681e945924b971bc04",
+      "size": 55065,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echohudcore-1.0.0.echo-addon"
     },
     {
@@ -974,8 +959,8 @@
       "path": "addons/echoindex-1.0.1.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "98f960bd5ffb479d2013e446d9bb4841eda744cccc83185a2d37931909427fb0",
-      "size": 588637,
+      "sha256": "625a6e14d68c8815e1c46d8d05ab66e244b3f349c779bf47c1b44edaa3f8196d",
+      "size": 589798,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoindex-1.0.1.echo-addon"
     },
     {
@@ -988,8 +973,8 @@
       "path": "addons/echoindustrialnexus-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "c42fc7bfbc4c323306cad01367ee13d9acc7724ae92aba77471e65edd1b9440d",
-      "size": 5040146,
+      "sha256": "6180bd3cfa9b9a384b4c6d978614a584177cf5dc310c1480ced1a0758e7edf72",
+      "size": 5054541,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoindustrialnexus-1.0.0.echo-addon"
     },
     {
@@ -1002,8 +987,8 @@
       "path": "addons/echolens-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "311b1dd288781baf3ad42fecb98a37e30991fe8f96e9b8fda0c8337afb355cdc",
-      "size": 215270,
+      "sha256": "30340d8daf52d4a2f7fb0b8aae67c72ac34c8151294e91a635628a53a5c55148",
+      "size": 216597,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echolens-1.0.0.echo-addon"
     },
     {
@@ -1016,8 +1001,8 @@
       "path": "addons/echologisticsnetwork-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "b339c13cd2143000ec73ce961460401010a06942bbc7a0f046210ed2916a90a9",
-      "size": 3653832,
+      "sha256": "0bd8bff4ea174a8b53ac9d4d0fd28b412902e6aa588638d8fc505d2ce5989274",
+      "size": 3655761,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echologisticsnetwork-1.0.0.echo-addon"
     },
     {
@@ -1030,8 +1015,8 @@
       "path": "addons/echomaterialcore-0.1.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "104d03d3ffab358c46320016a0e390673df5436fa2ac521a876606b588c4f2a8",
-      "size": 29714,
+      "sha256": "450d16d89aabcf21c58869c9a31d871cce7c13078972c7e503fc1575fdfa089d",
+      "size": 30360,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echomaterialcore-0.1.0.echo-addon"
     },
     {
@@ -1044,8 +1029,8 @@
       "path": "addons/echomissioncore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "187b2942b1ab111923ef113431c746b3e9ed23ec8036e5260711248fdc9842cc",
-      "size": 124450,
+      "sha256": "1b96778b5edd0e8a0c06dccb951d866281121a923ef49f5ef08ea70725d9ad3a",
+      "size": 124803,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echomissioncore-1.0.0.echo-addon"
     },
     {
@@ -1058,8 +1043,8 @@
       "path": "addons/echomultiblockcore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "2a19a05b8b87cfc0b7333b3a99c63dc141196526b7ee8a08bd153ca1b7fd243e",
-      "size": 12630273,
+      "sha256": "a8f3a1819e3e7d53c20ac8daa0d2e4a2055df57edc2fb8fe89952832b17537e8",
+      "size": 12632683,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echomultiblockcore-1.0.0.echo-addon"
     },
     {
@@ -1072,8 +1057,8 @@
       "path": "addons/echonetcore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "6bb7b749d5dfd5ae7836cf51262f2b7a19b0c6dadbc13d65056c9444d6f4b454",
-      "size": 76247,
+      "sha256": "5c55df34f2a092e71909eb0329492727623d85afe72608fd1e8ecac176c83c40",
+      "size": 76344,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echonetcore-1.0.0.echo-addon"
     },
     {
@@ -1086,8 +1071,8 @@
       "path": "addons/echonexusprotocol-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "56fbc5cb57d873264a9c40fb9cc50bc975e68f516e12decf669605a92a611019",
-      "size": 13806236,
+      "sha256": "44eb7453855e4df1016560746d57eafd88eaf7652d313ffa44e161064e7a8c73",
+      "size": 13819547,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echonexusprotocol-1.0.0.echo-addon"
     },
     {
@@ -1100,8 +1085,8 @@
       "path": "addons/echoorbitalremnants-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "b6018143828f1d30a15694f2f5eccc791ba4e3385acb05ee1374222a2175fb3b",
-      "size": 14338003,
+      "sha256": "8eb50fc02b5d76b2c2e04e4e7ec1a157fe5233e77c1cc1684ba173fc1c1f3e06",
+      "size": 14347496,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoorbitalremnants-1.0.0.echo-addon"
     },
     {
@@ -1114,23 +1099,9 @@
       "path": "addons/echoplatformcore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "f68017cb526d6c2308584fa13890edb92fb37cd11272630a2313eca1676a6ce1",
-      "size": 50645,
+      "sha256": "822afcca6a5947d6470b01ff0f969a779ac4bd28bd5456ca9fb66b02ad5515ea",
+      "size": 50715,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoplatformcore-1.0.0.echo-addon"
-    },
-    {
-      "id": "echopresencelink",
-      "moduleId": "echopresencelink",
-      "version": "1.0.0",
-      "artifactFamily": "echo-addon",
-      "assetName": "echopresencelink-1.0.0.echo-addon",
-      "artifactName": "echopresencelink-1.0.0.echo-addon",
-      "path": "addons/echopresencelink-1.0.0.echo-addon",
-      "required": true,
-      "side": "both",
-      "sha256": "c04dfd137c8807ad3c7d1d49accfca1a6d0f3138fe7798e0b946cb6e8979e2a4",
-      "size": 10146357,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echopresencelink-1.0.0.echo-addon"
     },
     {
       "id": "echopowergrid",
@@ -1142,8 +1113,8 @@
       "path": "addons/echopowergrid-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "2acacdf58f5d546c2389710525068cbde629463fc4a97523d68ec28c3160c396",
-      "size": 7159979,
+      "sha256": "08d9cef948ae496e25f606221257bfc78d78cf9d40236e7501dc892bc42a68e1",
+      "size": 7163228,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echopowergrid-1.0.0.echo-addon"
     },
     {
@@ -1156,8 +1127,8 @@
       "path": "addons/echorecovery-1.3.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "486e54ba3193f0132843e01a0617060be5adc232296d23858dda49a4969fce7d",
-      "size": 2678143,
+      "sha256": "49e2707c6ce6faf2f86bc79231c67702f6668c0f02162621d131bfa66824e04c",
+      "size": 2680620,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echorecovery-1.3.0.echo-addon"
     },
     {
@@ -1170,8 +1141,8 @@
       "path": "addons/echorelictech-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "cc6c7c7ef7186474e6fe0d1e2e41642d59f465fc1a3457b802ca5a395ead9dd4",
-      "size": 7687151,
+      "sha256": "1957a2308409e24e8aa7d56b29151734faf1a98eaf071b965b8014b266af520b",
+      "size": 7691201,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echorelictech-1.0.0.echo-addon"
     },
     {
@@ -1184,8 +1155,8 @@
       "path": "addons/echorendercore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "abfd4d17e9ce4be4f6e0ca0f244dcf4e66e7ccb3129416c25d678e6febc6ffde",
-      "size": 484075,
+      "sha256": "e3e299a77d62661b3105ad1d3545a3ffba926366d84ca5cafdbc9c543d9b0199",
+      "size": 484333,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echorendercore-1.0.0.echo-addon"
     },
     {
@@ -1198,8 +1169,8 @@
       "path": "addons/echoruntimeguard-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "7db1c93687c59e6b8785b1d250e8b1b35279e564931c9ff1a2dd0e0ac1bb10a3",
-      "size": 128122,
+      "sha256": "d1f95135b7801c97da0ba04ace6c99f1368ce992cd59ae3829fefffef14bea37",
+      "size": 128591,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoruntimeguard-1.0.0.echo-addon"
     },
     {
@@ -1212,8 +1183,8 @@
       "path": "addons/echoschemacore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "1c461fcd922fba9b0b11d7b505ddb33782d0ec1f54d2aa755ba05bcd79c009cb",
-      "size": 36674,
+      "sha256": "83d7af64a85d172eac9a721048fb0d820f9e3c460b6a26526be5dbde14a48a53",
+      "size": 36804,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoschemacore-1.0.0.echo-addon"
     },
     {
@@ -1226,8 +1197,8 @@
       "path": "addons/echoscreencore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "820621fe58ba8fcecc4128a9356588ee92fe233a11c67c0d896d7f9bbdad4ecf",
-      "size": 374330,
+      "sha256": "db3a07cea0c67a59402253491736121425cc1dc27166059cd0c7f33279569dc1",
+      "size": 378477,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoscreencore-1.0.0.echo-addon"
     },
     {
@@ -1240,8 +1211,8 @@
       "path": "addons/echosoundcore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "37aeb84ff29529aefd230b5461f7c3aeda27f087435abe76ec713db38d0f8924",
-      "size": 11087314,
+      "sha256": "c63a29ca542f563b8e3f7eedd25eae9a370495478186a80920e34ee3b8a0229c",
+      "size": 11098335,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echosoundcore-1.0.0.echo-addon"
     },
     {
@@ -1254,8 +1225,8 @@
       "path": "addons/echostationcore-0.1.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "06d832b949e0ef861ea854ec2568ce73b142f710d53871307bac53690aa1e536",
-      "size": 19133,
+      "sha256": "102c5579e7179996d8bc59edb306e180ec033615bec7ca6ab6b4f88b91958176",
+      "size": 19649,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echostationcore-0.1.0.echo-addon"
     },
     {
@@ -1268,8 +1239,8 @@
       "path": "addons/echostationfall-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "d1495c6b2c2ce5828b3ad2b48b48af10cc693e7bc41e0b7fcef89b9e7962f805",
-      "size": 3892421,
+      "sha256": "3f4fdc38310dbda172a5b92cf521b4a434110606e3f488ea046f682fc0491b10",
+      "size": 3895468,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echostationfall-1.0.0.echo-addon"
     },
     {
@@ -1282,8 +1253,8 @@
       "path": "addons/echoterminal-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "cd898e6485337c7b9516ccfe552c65cfe51eef53e5a0ab15c60933d62f3e4062",
-      "size": 22479731,
+      "sha256": "675cc33290e122eb88941879bfaf3b6c7cc18cc6bd2600d5d15dfa4922312da2",
+      "size": 22481412,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoterminal-1.0.0.echo-addon"
     },
     {
@@ -1296,8 +1267,8 @@
       "path": "addons/echothemecore-1.3.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "343effcaee56c8dbf68bfb63660226176d7c2b30768795fab6198a0243401104",
-      "size": 69535269,
+      "sha256": "fdb109d5e8bc13ad6ffcb9011877484e6f17b173eb34750706626278256b7331",
+      "size": 69536055,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echothemecore-1.3.0.echo-addon"
     },
     {
@@ -1310,8 +1281,8 @@
       "path": "addons/echotoolcore-0.1.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "e45abaf241aff5cc00b22af6b1d9c2cd4b1071213022a3e0f2af7375c810fd58",
-      "size": 18689,
+      "sha256": "c027425b048e87121d0ecd2c59239171ba2899d0a5f30575c26a920b3c068ea3",
+      "size": 19189,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echotoolcore-0.1.0.echo-addon"
     },
     {
@@ -1324,8 +1295,8 @@
       "path": "addons/echotutorialcore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "2310bc36cc141fbef8167f15c3272f731751f90cdb7031bf2d9682cda7acff05",
-      "size": 206575,
+      "sha256": "8b9281b266ba196a8f283e351a4f1f149ceacc9760e82358687e70b983880a69",
+      "size": 207257,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echotutorialcore-1.0.0.echo-addon"
     },
     {
@@ -1338,8 +1309,8 @@
       "path": "addons/echovalidationcore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "d04f80b76769d34d7af8f0003348b15fb045351607cd2f22881135830b27add5",
-      "size": 47445,
+      "sha256": "15f69c3604326e57ae08066b6409bb792e5313d35ba496fa864ebda9f6a85d4d",
+      "size": 47615,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echovalidationcore-1.0.0.echo-addon"
     },
     {
@@ -1352,8 +1323,8 @@
       "path": "addons/echoweathercore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "1355fdfb08860345509127f69be8359743dc6e46467d75fea33526b306c57214",
-      "size": 226037,
+      "sha256": "558358fedbe86de6caca8f26326f673b68f26a7fa490ee63b172b1ed652d9580",
+      "size": 229521,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoweathercore-1.0.0.echo-addon"
     },
     {
@@ -1366,8 +1337,8 @@
       "path": "addons/echowiki-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "c76a00c94d65b80df394e45b52dc33a3938b58221509184a9847abd588adb1ae",
-      "size": 4669301,
+      "sha256": "aa499f01a8bb7facde4120b5452cbbc95763ba371325da1f393ef1dde54b1913",
+      "size": 4670401,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echowiki-1.0.0.echo-addon"
     },
     {
@@ -1380,8 +1351,8 @@
       "path": "addons/echoworldcore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "c29f67ee861d9f5f18609b8365ea51a94ba6f1cba85fb7c6379803d359cea2b8",
-      "size": 174428,
+      "sha256": "22845a69e3c475871b8c1d0975b7f0a748c92a0ef6c7c9764e5952eefdc57071",
+      "size": 175997,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoworldcore-1.0.0.echo-addon"
     },
     {
@@ -1394,8 +1365,8 @@
       "path": "addons/echoworldstarter-0.1.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "80c371ebd22b025f60f0a793b1b7844fa4987b7d834a660565570bf27c3d2447",
-      "size": 19830,
+      "sha256": "4aecb7a417f1cf07da742461eb74d886724dfa7a1edb07e1c1780cbfe479c664",
+      "size": 20427,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoworldstarter-0.1.0.echo-addon"
     },
     {
@@ -1408,8 +1379,8 @@
       "path": "addons/echosignalos-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "132ec2e1daac9af57f0d442c1564c4764e6790cf723e759c017ae1261337d5e0",
-      "size": 1834635,
+      "sha256": "4281a30fdbc51d2a919885eb984f9aed6779192f870a3a040910717136dc804b",
+      "size": 1836502,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echosignalos-1.0.0.echo-addon"
     }
   ],
@@ -1422,13 +1393,16 @@
   "runtimeTarget": "echo_native",
   "id": "ashfall-native-edition",
   "artifactUrl": "https://github.com/knoxhack/ECHO-Ashfall-Native-Edition/releases/download/v0.1.1-ashfall-native-edition-beta/ashfall-native-edition-0.1.1.zip",
-  "updatedAt": "2026-06-20T04:41:03.466Z",
+  "updatedAt": "2026-06-20T18:28:08.317Z",
   "generatedBy": "scripts/rebuild-official-modpack-assets",
   "validation": "warning",
   "manifestAsset": "ashfall-native-edition-beta-0.1.1.pack.json",
   "moduleRelease": "modules-beta-full-20260620",
-  "moduleSourceRevision": "ECHO-Modules modules-beta-full-20260620 (2a1c2ec8), 2026-06-20",
+  "moduleSourceRevision": "ECHO-Modules afd206900713 local Content Graph + AdapterCore recovery artifacts, 2026-06-20",
   "releaseTag": "v0.1.1-ashfall-native-edition-beta",
   "moduleReleaseId": "modules-beta-full-20260620",
-  "releaseUrl": "https://github.com/knoxhack/ECHO-Ashfall-Native-Edition/releases/tag/v0.1.1-ashfall-native-edition-beta"
+  "releaseUrl": "https://github.com/knoxhack/ECHO-Ashfall-Native-Edition/releases/tag/v0.1.1-ashfall-native-edition-beta",
+  "moduleArtifactPattern": "<module>-<version>.echo-addon",
+  "moduleSourcePattern": "<module>-<version>-sources.jar",
+  "loader": "echo-native-loader"
 }
