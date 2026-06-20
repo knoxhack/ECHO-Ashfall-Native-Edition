@@ -222,16 +222,16 @@
     {
       "id": "echoindex",
       "moduleId": "echoindex",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "artifactFamily": "echo-addon",
-      "assetName": "echoindex-1.0.0.echo-addon",
-      "artifactName": "echoindex-1.0.0.echo-addon",
-      "path": "addons/echoindex-1.0.0.echo-addon",
+      "assetName": "echoindex-1.0.1.echo-addon",
+      "artifactName": "echoindex-1.0.1.echo-addon",
+      "path": "addons/echoindex-1.0.1.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "0531ec50109f0652f54a7916768f5efc8fa7f5a615e87f1bf41946ec8cf2705b",
-      "size": 569823,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echoindex-1.0.0.echo-addon"
+      "sha256": "1c3af1a03124c3f54c5feae9cdca2daf55c34a29bc057d37aa6399616e288d04",
+      "size": 579924,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-echoindex-overlay-polish-20260618/echoindex-1.0.1.echo-addon"
     },
     {
       "id": "echoindustrialnexus",
@@ -372,6 +372,20 @@
       "sha256": "fb22f5dbdf125ec92206e64c98eb9f8577a85ebc5543b8b6aee927a0111c3de9",
       "size": 50632,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echoplatformcore-1.0.0.echo-addon"
+    },
+    {
+      "id": "echopresencelink",
+      "moduleId": "echopresencelink",
+      "version": "1.0.0",
+      "artifactFamily": "echo-addon",
+      "assetName": "echopresencelink-1.0.0.echo-addon",
+      "artifactName": "echopresencelink-1.0.0.echo-addon",
+      "path": "addons/echopresencelink-1.0.0.echo-addon",
+      "required": true,
+      "side": "both",
+      "sha256": "b35c670564dadab0d2454937c1285ea4697e1009af80a6995fafd1851037d923",
+      "size": 10146379,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echopresencelink-1.0.0.echo-addon"
     },
     {
       "id": "echopowergrid",
@@ -718,6 +732,7 @@
     "echoorbitalremnants",
     "echoplatformcore",
     "echopowergrid",
+    "echopresencelink",
     "echorecovery",
     "echorelictech",
     "echorendercore",
@@ -952,16 +967,16 @@
     {
       "id": "echoindex",
       "moduleId": "echoindex",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "artifactFamily": "echo-addon",
-      "assetName": "echoindex-1.0.0.echo-addon",
-      "artifactName": "echoindex-1.0.0.echo-addon",
-      "path": "addons/echoindex-1.0.0.echo-addon",
+      "assetName": "echoindex-1.0.1.echo-addon",
+      "artifactName": "echoindex-1.0.1.echo-addon",
+      "path": "addons/echoindex-1.0.1.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "0531ec50109f0652f54a7916768f5efc8fa7f5a615e87f1bf41946ec8cf2705b",
-      "size": 569823,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echoindex-1.0.0.echo-addon"
+      "sha256": "1c3af1a03124c3f54c5feae9cdca2daf55c34a29bc057d37aa6399616e288d04",
+      "size": 579924,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-echoindex-overlay-polish-20260618/echoindex-1.0.1.echo-addon"
     },
     {
       "id": "echoindustrialnexus",
@@ -1102,6 +1117,20 @@
       "sha256": "fb22f5dbdf125ec92206e64c98eb9f8577a85ebc5543b8b6aee927a0111c3de9",
       "size": 50632,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echoplatformcore-1.0.0.echo-addon"
+    },
+    {
+      "id": "echopresencelink",
+      "moduleId": "echopresencelink",
+      "version": "1.0.0",
+      "artifactFamily": "echo-addon",
+      "assetName": "echopresencelink-1.0.0.echo-addon",
+      "artifactName": "echopresencelink-1.0.0.echo-addon",
+      "path": "addons/echopresencelink-1.0.0.echo-addon",
+      "required": true,
+      "side": "both",
+      "sha256": "b35c670564dadab0d2454937c1285ea4697e1009af80a6995fafd1851037d923",
+      "size": 10146379,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echopresencelink-1.0.0.echo-addon"
     },
     {
       "id": "echopowergrid",
@@ -1397,7 +1426,7 @@
   "generatedBy": "scripts/rebuild-official-modpack-assets",
   "validation": "warning",
   "manifestAsset": "ashfall-native-edition-alpha-0.1.0.pack.json",
-  "moduleRelease": "modules-mixed-canonical-and-ashfall-hotfixes-20260617",
+  "moduleRelease": "modules-echoindex-overlay-polish-20260618",
   "moduleSourceRevision": "ECHO-Release-Index modules/*.json with ECHO-Modules@d499d0a554e741d58e74183a23a7e360f22721db",
   "artifactSha256": "ed9b191a877cb8c624e98fcc28d11516a3b3f3a0dc80243cc5f2f7c402a8b43f",
   "artifactSize": 268247604

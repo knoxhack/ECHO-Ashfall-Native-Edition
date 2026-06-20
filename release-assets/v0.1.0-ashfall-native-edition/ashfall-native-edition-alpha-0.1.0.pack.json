@@ -222,16 +222,16 @@
     {
       "id": "echoindex",
       "moduleId": "echoindex",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "artifactFamily": "echo-addon",
-      "assetName": "echoindex-1.0.0.echo-addon",
-      "artifactName": "echoindex-1.0.0.echo-addon",
-      "path": "addons/echoindex-1.0.0.echo-addon",
+      "assetName": "echoindex-1.0.1.echo-addon",
+      "artifactName": "echoindex-1.0.1.echo-addon",
+      "path": "addons/echoindex-1.0.1.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "0531ec50109f0652f54a7916768f5efc8fa7f5a615e87f1bf41946ec8cf2705b",
-      "size": 569823,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echoindex-1.0.0.echo-addon"
+      "sha256": "1c3af1a03124c3f54c5feae9cdca2daf55c34a29bc057d37aa6399616e288d04",
+      "size": 579924,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-echoindex-overlay-polish-20260618/echoindex-1.0.1.echo-addon"
     },
     {
       "id": "echoindustrialnexus",
@@ -388,6 +388,20 @@
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echopowergrid-1.0.0.echo-addon"
     },
     {
+      "id": "echopresencelink",
+      "moduleId": "echopresencelink",
+      "version": "1.0.0",
+      "artifactFamily": "echo-addon",
+      "assetName": "echopresencelink-1.0.0.echo-addon",
+      "artifactName": "echopresencelink-1.0.0.echo-addon",
+      "path": "addons/echopresencelink-1.0.0.echo-addon",
+      "required": true,
+      "side": "both",
+      "sha256": "b35c670564dadab0d2454937c1285ea4697e1009af80a6995fafd1851037d923",
+      "size": 10146379,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echopresencelink-1.0.0.echo-addon"
+    },
+    {
       "id": "echorecovery",
       "moduleId": "echorecovery",
       "version": "1.3.0",
@@ -470,6 +484,20 @@
       "sha256": "c0d6d19c44abea0893f75a76122b87da43d01801795e161f2406597ad109a9f1",
       "size": 368541,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echoscreencore-1.0.0.echo-addon"
+    },
+    {
+      "id": "echosignalos",
+      "moduleId": "echosignalos",
+      "version": "1.0.0",
+      "artifactFamily": "echo-addon",
+      "assetName": "echosignalos-1.0.0.echo-addon",
+      "artifactName": "echosignalos-1.0.0.echo-addon",
+      "path": "addons/echosignalos-1.0.0.echo-addon",
+      "required": true,
+      "side": "both",
+      "sha256": "97fa75a5e8bc3bc26019cdd2796e456f2284f5c9eb5df172e8360bfbf88d43f0",
+      "size": 1833398,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echosignalos-1.0.0.echo-addon"
     },
     {
       "id": "echosoundcore",
@@ -638,20 +666,6 @@
       "sha256": "56e5b761a5d7c74dcc906b55b80c917edd273afc2dfdb0224f04cc37b8b171a4",
       "size": 19798,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echoworldstarter-0.1.0.echo-addon"
-    },
-    {
-      "id": "echosignalos",
-      "moduleId": "echosignalos",
-      "version": "1.0.0",
-      "artifactFamily": "echo-addon",
-      "assetName": "echosignalos-1.0.0.echo-addon",
-      "artifactName": "echosignalos-1.0.0.echo-addon",
-      "path": "addons/echosignalos-1.0.0.echo-addon",
-      "required": true,
-      "side": "both",
-      "sha256": "97fa75a5e8bc3bc26019cdd2796e456f2284f5c9eb5df172e8360bfbf88d43f0",
-      "size": 1833398,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echosignalos-1.0.0.echo-addon"
     }
   ],
   "nativeLoader": {
@@ -718,12 +732,14 @@
     "echoorbitalremnants",
     "echoplatformcore",
     "echopowergrid",
+    "echopresencelink",
     "echorecovery",
     "echorelictech",
     "echorendercore",
     "echoruntimeguard",
     "echoschemacore",
     "echoscreencore",
+    "echosignalos",
     "echosoundcore",
     "echostationcore",
     "echostationfall",
@@ -735,8 +751,7 @@
     "echoweathercore",
     "echowiki",
     "echoworldcore",
-    "echoworldstarter",
-    "echosignalos"
+    "echoworldstarter"
   ],
   "files": [
     {
@@ -952,16 +967,16 @@
     {
       "id": "echoindex",
       "moduleId": "echoindex",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "artifactFamily": "echo-addon",
-      "assetName": "echoindex-1.0.0.echo-addon",
-      "artifactName": "echoindex-1.0.0.echo-addon",
-      "path": "addons/echoindex-1.0.0.echo-addon",
+      "assetName": "echoindex-1.0.1.echo-addon",
+      "artifactName": "echoindex-1.0.1.echo-addon",
+      "path": "addons/echoindex-1.0.1.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "0531ec50109f0652f54a7916768f5efc8fa7f5a615e87f1bf41946ec8cf2705b",
-      "size": 569823,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echoindex-1.0.0.echo-addon"
+      "sha256": "1c3af1a03124c3f54c5feae9cdca2daf55c34a29bc057d37aa6399616e288d04",
+      "size": 579924,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-echoindex-overlay-polish-20260618/echoindex-1.0.1.echo-addon"
     },
     {
       "id": "echoindustrialnexus",
@@ -1118,6 +1133,20 @@
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echopowergrid-1.0.0.echo-addon"
     },
     {
+      "id": "echopresencelink",
+      "moduleId": "echopresencelink",
+      "version": "1.0.0",
+      "artifactFamily": "echo-addon",
+      "assetName": "echopresencelink-1.0.0.echo-addon",
+      "artifactName": "echopresencelink-1.0.0.echo-addon",
+      "path": "addons/echopresencelink-1.0.0.echo-addon",
+      "required": true,
+      "side": "both",
+      "sha256": "b35c670564dadab0d2454937c1285ea4697e1009af80a6995fafd1851037d923",
+      "size": 10146379,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echopresencelink-1.0.0.echo-addon"
+    },
+    {
       "id": "echorecovery",
       "moduleId": "echorecovery",
       "version": "1.3.0",
@@ -1200,6 +1229,20 @@
       "sha256": "c0d6d19c44abea0893f75a76122b87da43d01801795e161f2406597ad109a9f1",
       "size": 368541,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echoscreencore-1.0.0.echo-addon"
+    },
+    {
+      "id": "echosignalos",
+      "moduleId": "echosignalos",
+      "version": "1.0.0",
+      "artifactFamily": "echo-addon",
+      "assetName": "echosignalos-1.0.0.echo-addon",
+      "artifactName": "echosignalos-1.0.0.echo-addon",
+      "path": "addons/echosignalos-1.0.0.echo-addon",
+      "required": true,
+      "side": "both",
+      "sha256": "97fa75a5e8bc3bc26019cdd2796e456f2284f5c9eb5df172e8360bfbf88d43f0",
+      "size": 1833398,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echosignalos-1.0.0.echo-addon"
     },
     {
       "id": "echosoundcore",
@@ -1368,20 +1411,6 @@
       "sha256": "56e5b761a5d7c74dcc906b55b80c917edd273afc2dfdb0224f04cc37b8b171a4",
       "size": 19798,
       "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echoworldstarter-0.1.0.echo-addon"
-    },
-    {
-      "id": "echosignalos",
-      "moduleId": "echosignalos",
-      "version": "1.0.0",
-      "artifactFamily": "echo-addon",
-      "assetName": "echosignalos-1.0.0.echo-addon",
-      "artifactName": "echosignalos-1.0.0.echo-addon",
-      "path": "addons/echosignalos-1.0.0.echo-addon",
-      "required": true,
-      "side": "both",
-      "sha256": "97fa75a5e8bc3bc26019cdd2796e456f2284f5c9eb5df172e8360bfbf88d43f0",
-      "size": 1833398,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echosignalos-1.0.0.echo-addon"
     }
   ],
   "changelog": [
@@ -1393,11 +1422,11 @@
   "runtimeTarget": "echo_native",
   "id": "ashfall-native-edition",
   "artifactUrl": "https://github.com/knoxhack/ECHO-Ashfall-Native-Edition/releases/download/v0.1.0-ashfall-native-edition/ashfall-native-edition-0.1.0.zip",
-  "updatedAt": "2026-06-17T21:35:37.505Z",
+  "updatedAt": "2026-06-18T11:05:01.463Z",
   "generatedBy": "scripts/rebuild-official-modpack-assets",
   "validation": "warning",
   "manifestAsset": "ashfall-native-edition-alpha-0.1.0.pack.json",
-  "moduleRelease": "modules-mixed-canonical-and-ashfall-hotfixes-20260617",
+  "moduleRelease": "modules-echoindex-overlay-polish-20260618",
   "moduleSourceRevision": "ECHO-Release-Index modules/*.json with ECHO-Modules@d499d0a554e741d58e74183a23a7e360f22721db",
   "artifactSha256": "ed9b191a877cb8c624e98fcc28d11516a3b3f3a0dc80243cc5f2f7c402a8b43f",
   "artifactSize": 268247604

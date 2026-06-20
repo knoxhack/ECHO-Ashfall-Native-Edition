@@ -1,4 +1,4 @@
 ed9b191a877cb8c624e98fcc28d11516a3b3f3a0dc80243cc5f2f7c402a8b43f  ashfall-native-edition-0.1.0.zip
-cabd929cb7f21f990c47c33c55b266e252859c843b3904060d9cb576d7b549ee  ashfall-native-edition-alpha-0.1.0.pack.json
-06516eacf26fd7f58b0d5986fc7aa45781caf1398b8f5b65faa6b2117353609f  echo-release.json
-0e780fba6e732359ebaefd49adc4f458a3914fcac620454bd0d00512219665bb  release-audit.json
+ac3e9d1172d6240d851cdafbaa241b8f1057845a382a17b813b6e0ad18a0e838  ashfall-native-edition-alpha-0.1.0.pack.json
+add7b78d9b01df78426cb4711321e0ec757af8bc1c832d23528ba9a3b2f311d5  echo-release.json
+82f5098c1e0822437a86c705b7259fbb91566dd32e5bc35e33550e25f72b0c2e  release-audit.json

@@ -1,15 +1,15 @@
 {
   "schemaVersion": "echo.official_modpack.release_audit.v1",
-  "status": "rebuilt-from-current-module-catalog",
+  "status": "rebuilt-from-current-module-catalog-with-native-parity-presencelink",
   "pack": "ashfall-native-edition",
   "name": "Ashfall Native Edition",
   "version": "0.1.0",
   "channel": "alpha",
-  "moduleRelease": "modules-mixed-canonical-and-ashfall-hotfixes-20260617",
+  "moduleRelease": "modules-echoindex-overlay-polish-20260618",
   "moduleSourceRevision": "ECHO-Release-Index modules/*.json with ECHO-Modules@d499d0a554e741d58e74183a23a7e360f22721db",
   "releaseTag": "v0.1.0-ashfall-native-edition",
   "sourceRepo": "knoxhack/ECHO-Ashfall-Native-Edition",
-  "moduleCount": 46,
+  "moduleCount": 47,
   "artifact": {
     "name": "ashfall-native-edition-0.1.0.zip",
     "sha256": "ed9b191a877cb8c624e98fcc28d11516a3b3f3a0dc80243cc5f2f7c402a8b43f",
@@ -17,8 +17,8 @@
   },
   "manifest": {
     "name": "ashfall-native-edition-alpha-0.1.0.pack.json",
-    "sha256": "cabd929cb7f21f990c47c33c55b266e252859c843b3904060d9cb576d7b549ee",
-    "size": 58979
+    "sha256": "ac3e9d1172d6240d851cdafbaa241b8f1057845a382a17b813b6e0ad18a0e838",
+    "size": 60239
   },
-  "generatedAt": "2026-06-17T21:35:46.548Z"
+  "generatedAt": "2026-06-18T00:00:00.000Z"
 }

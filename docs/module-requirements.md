@@ -34,7 +34,7 @@ Required modules after the parity sync:
 - `echocore` (1.0.0)
 - `echoholomap` (1.0.0)
 - `echohudcore` (1.0.0)
-- `echoindex` (1.0.0)
+- `echoindex` (1.0.1)
 - `echolens` (1.0.0)
 - `echonetcore` (1.0.0)
 - `echoplatformcore` (1.0.0)
